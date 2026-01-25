@@ -1,0 +1,100 @@
+{
+    "education": {
+        "title": "Educación",
+        "institute": [
+            {
+                "name": "Instituto Tecnológico de Ciudad Madero / TecNM",
+                "mode": "Presencial",
+                "role": "Lic. Ingeniería en Sistemas Computacionales",
+                "duration": "Jun 2015 - Jun 2019",
+                "description": "Ingeniería de Software con fuerte base técnica en Java SE (7, 8 y 11), programación orientada a objetos y diseño de sistemas. Experiencia en desarrollo de soluciones backend, aplicaciones móviles y gestión de datos en entornos productivos, utilizando bases relacionales y NoSQL.",
+                "details": []
+            },
+            {
+                "name": "Centro de Estudios Tecnológicos Industrial y de Servicios No. 109",
+                "mode": "Presencial",
+                "role": "Técnico en desarrollo de software",
+                "duration": "Jun 2015 - Jun 2019",
+                "description": "Desarrollo de proyectos utilizando Java, C++, C# y PHP.",
+                "details": []
+            }
+        ]
+    },
+    "certificates": {
+        "title": "Certificados",
+        "certificates": [
+            {
+                "title": "Análisis de datos | Estadística con Python",
+                "institute": "TecNM",
+                "date": "01/01/2026",
+                "link": "https://mooc.tecnm.mx/certificates/4670fe77ced94004830476ca2fb3455e",
+                "id": "",
+                "description": "",
+                "img": "/certificates/tecnm.png"
+            },
+            {
+                "title": "Training Comunicación Inteligente",
+                "institute": "DaCodes",
+                "date": "01/04/2025",
+                "link": "https://www.credly.com/badges/801f00ea-06f1-4946-916c-501a8bda5cae/linked_in_profile",
+                "id": "",
+                "description": "",
+                "img": "/certificates/dacodes.jfif"
+            },
+            {
+                "title": "Training Client Facing",
+                "institute": "DaCodes",
+                "date": "01/04/2025",
+                "link": "https://www.credly.com/badges/08e628c7-86a1-419a-bca8-887f3355001f/linked_in_profile",
+                "id": "",
+                "description": "",
+                "img": "/certificates/dacodes.jfif"
+            },
+            {
+                "title": "Onboarding DaCodes",
+                "institute": "DaCodes",
+                "date": "05/08/2024",
+                "link": "",
+                "id": "https://www.credly.com/badges/52a39ec3-7fbf-460f-b5f2-7688a940f096/linked_in_profile",
+                "description": "",
+                "img": "/certificates/dacodes.jfif"
+            },
+            {
+                "title": "Scrum Fundamentals Certified",
+                "institute": "SCRUMstudy",
+                "date": "04/08/2024",
+                "link": "https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-V%C3%ADctorDanielCalder%C3%B3nL%C3%B3pez-1043578.pdf",
+                "id": "c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com",
+                "description": "",
+                "img": "/certificates/scrumstudy.png"
+            },
+            {
+                "title": "TypeScript avanzado",
+                "institute": "Platzi",
+                "date": "05/08/2024",
+                "link": "https://platzi.com/p/victordaniel001/curso/2879-typescript-tipos-avanzados/diploma/detalle/",
+                "id": "81711bdf-ea68-4950-8e38-e2d24706ac4a",
+                "description": "",
+                "img": "/certificates/platzi.png"
+            },
+            {
+                "title": "Introducción Data Science e Inteligencia Artificial",
+                "institute": "Platzi",
+                "date": "01/02/2023",
+                "link": "https://platzi.com/p/victordaniel001/curso/2807-aprender-data-ia/diploma/detalle/",
+                "id": "2395bb82-15a6-4a29-bb9f-d96ada22824b",
+                "description": "",
+                "img": "/certificates/platzi.png"
+            },
+            {
+                "title": "Java SE Orientado a Objetos",
+                "institute": "Platzi",
+                "date": "01/07/2024",
+                "link": "c55f386c-014a-4a84-9541-138d8816ddba",
+                "id": "https://platzi.com/p/victordaniel001/curso/1629-java-oop/diploma/detalle/",
+                "description": "",
+                "img": "/certificates/platzi.png"
+            }
+        ]
+    }
+}

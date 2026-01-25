@@ -1,0 +1,115 @@
+{
+    "title": "Portafolio",
+    "projects": {
+        "title": "Portafolio",
+        "topics": [
+            {
+                "title": "E-Commerce a la Medida",
+                "link": "/portfolio/ecommerce",
+                "image": ["/projects/ecommerce.png", "/projects/payments.png", "/projects/events.png"],
+                "description": "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
+                "detail": [
+                    {
+                        "title": "Plataformas de Comercio Electrónico Escalables",
+                        "imageAlignment": "left",
+                        "image": "/projects/ecommerce.png",
+                        "description": [
+                            "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
+                            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium iste natus error sit voluptatem accusantium iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                        ]
+                    },
+                    {
+                        "description": [
+                            "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
+                            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                        ]
+                    },
+                    {
+                        "title": "Plataformas para Eventos Empresariale",
+                        "imageAlignment": "center",
+                        "description": [
+                            "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
+                            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                        ]
+                    },
+                    {
+                        "title": "Plataformas para Eventos Empresariale",
+                        "textType": "list",
+                        "image": "/projects/ecommerce.png",
+                        "description": [
+                            "Diseño y desarrollo de plataformas",
+                            "Sed ut perspiciatis unde omnis iste",
+                            "architecto beatae vitae dicta sunt explicabo",
+                            "architecto beatae vitae dicta"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Facturación Electrónica y Procesamiento de Pagos",
+                "link": "/portfolio/payments",
+                "image": "/projects/payments.png",
+                "description": "Implementación de sistemas de facturación electrónica y pasarelas de pago seguras, cumpliendo estándares fiscales y de seguridad.",
+                "detail": [
+                    {
+                        "title": "Plataformas de Comercio Electrónico Escalables",
+                        "image": "",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "title": "Plataformas para Eventos Empresariales",
+                "link": "/portfolio/events",
+                "image": "/projects/events.png",
+                "description": "Soluciones digitales para la gestión integral de eventos corporativos, registro de asistentes, networking y analítica avanzada.",
+                "detail": [
+                    {
+                        "title": "Plataformas de Comercio Electrónico Escalables",
+                        "image": "",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "title": "Gestión Administrativa y Financiera",
+                "link": "/portfolio/management",
+                "image": "/projects/management.png",
+                "description": "Desarrollo de sistemas administrativos y financieros para control, automatización y toma de decisiones estratégicas.",
+                "detail": [
+                    {
+                        "title": "Plataformas de Comercio Electrónico Escalables",
+                        "image": "",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "title": "Sistemas de Punto de Venta (POS)",
+                "link": "/portfolio/pos",
+                "image": "/projects/pos.png",
+                "description": "Implementación de sistemas POS modernos para ventas, inventarios, facturación y reportes en tiempo real.",
+                "detail": [
+                    {
+                        "title": "Plataformas de Comercio Electrónico Escalables",
+                        "image": "",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "title": "Migración y Microservicios",
+                "link": "/portfolio/microservices",
+                "image": "/projects/microservices.png",
+                "description": "Transformación de sistemas monolíticos hacia arquitecturas de microservicios escalables, resilientes y orientadas al crecimiento.",
+                "detail": [
+                    {
+                        "title": "Plataformas de Comercio Electrónico Escalables",
+                        "image": "",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

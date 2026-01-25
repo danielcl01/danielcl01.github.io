@@ -1,0 +1,25 @@
+{
+    "contact": {
+        "title": "Contacto",
+        "subtitle": "Conectemos",
+        "conatct": {
+            "whatsapp": "5218333671211",
+            "email": "victordaniel0101@gmail.com",
+            "subject_static": "Contacto desde danielcl01.github.io",
+            "text_static": "Hola Daniel, vi tu perfil profesional y me interesa conocer más sobre tu experiencia en desarrollo de software. ¿Podemos agendar una conversación?",
+            "text_dynamic": "Hola Daniel, soy {name}. Me comunico contigo por el tema: {subject}. {message}."
+        },
+        "form": {
+            "title": "¿Como puedo ayudarte?",
+            "name": "Nombre",
+            "contact": "Medio de contacto",
+            "subject": "Asunto",
+            "message": "Mensaje",
+            "submit": "Enviar",
+            "options": [
+                { "label": "Correo", "value": "mail" },
+                { "label": "Whatsapp", "value": "whatsapp" }
+            ]
+        }
+    }
+}

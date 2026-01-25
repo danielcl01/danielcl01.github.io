@@ -1,0 +1,66 @@
+{
+    "about": {
+        "title": "Sobre mi",
+        "description": "Software Engineer con 6+ años de experiencia en desarrollo backend y arquitecturas de microservicios. Especializado en Node.js, TypeScript, Express y NestJS, con fuerte enfoque en sistemas de pagos, billing, fintech y plataformas de alto tráfico. Experiencia trabajando en entornos cloud (AWS, DigitalOcean), CI/CD y equipos remotos multidisciplinarios."
+    },
+    "whatido": {
+        "title": "¿Que hago?",
+        "topics": [
+            {
+                "title": "Desarrollo Fullstack",
+                "icon": "dev",
+                "description": "Diseño, desarrollo, pruebas y mantenimiento de aplicaciones web escalables, seguras y orientadas a resultados."
+            },
+            {
+                "title": "Automatización de Procesos",
+                "icon": "auto",
+                "description": "Optimización de flujos operativos mediante soluciones automatizadas con Node.js, Java y tecnologías modernas."
+            },
+            {
+                "title": "Computación en la Nube",
+                "icon": "cloud",
+                "description": "Implementación, gestión y despliegue de sistemas en AWS, DigitalOcean y entornos locales según necesidades del negocio."
+            },
+            {
+                "title": "Bases de Datos y Análisis",
+                "icon": "db",
+                "description": "Diseño, optimización y gestión de bases de datos relacionales y NoSQL para sistemas de alto rendimiento."
+            }
+        ]
+    },
+    "projects": {
+        "title": "Proyectos",
+        "topics": [
+            {
+                "title": "E-Commerce a la Medida",
+                "image": "/projects/ecommerce.png",
+                "description": "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados."
+            },
+            {
+                "title": "Facturación Electrónica y Procesamiento de Pagos",
+                "image": "/projects/payments.png",
+                "description": "Implementación de sistemas de facturación electrónica y pasarelas de pago seguras, cumpliendo estándares fiscales y de seguridad."
+            },
+            {
+                "title": "Plataformas para Eventos Empresariales",
+                "image": "/projects/events.png",
+                "description": "Soluciones digitales para la gestión integral de eventos corporativos, registro de asistentes, networking y analítica avanzada."
+            },
+            {
+                "title": "Gestión Administrativa y Financiera",
+                "image": "/projects/management.png",
+                "description": "Desarrollo de sistemas administrativos y financieros para control, automatización y toma de decisiones estratégicas."
+            },
+            {
+                "title": "Sistemas de Punto de Venta (POS)",
+                "image": "/projects/pos.png",
+                "description": "Implementación de sistemas POS modernos para ventas, inventarios, facturación y reportes en tiempo real."
+            },
+            {
+                "title": "Migración y Microservicios",
+                "image": "/projects/microservices.png",
+                "description": "Transformación de sistemas monolíticos hacia arquitecturas de microservicios escalables, resilientes y orientadas al crecimiento."
+            }
+        ]
+    }
+}

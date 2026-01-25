@@ -1,0 +1,60 @@
+{
+    "about": {
+        "title": "About me",
+        "description": "Software Engineer with 6+ years of experience in backend development and microservices architectures. Specialized in Node.js, TypeScript, Express, and NestJS, with a strong focus on payment systems, billing, fintech, and high-traffic platforms. Experienced in working with cloud environments (AWS, DigitalOcean), CI/CD, and multidisciplinary remote teams."
+    },
+    "experience": {
+        "title": "Work Experience",
+        "companies": [
+            {
+                "name": "DaCodes",
+                "mode": "Remote",
+                "role": "Senior Software Engineer",
+                "duration": "Ago 2024 - Oct 2025",
+                "description": "Participated in the design, migration, and scaling of an Enterprise Financial Portal (Fintech, Mortgage Lending) and in the development of a Music & Entertainment Events Web Application, both based on microservices architecture with strong focus on backend development, payments, and billing.",
+                "details": [
+                    "Led the migration from monolithic architectures to microservices, designing UML/BPM workflows and authoring technical documentation. Strengthened web application security, successfully remediating up to 98% of detected vulnerabilities. Performed code quality and security analysis using SonarQube and Fortify.",
+                    "Developed microservices and RESTful APIs using TypeScript, Node.js, Express, and NestJS, applying software design patterns. Designed data models and managed relational databases using PostgreSQL and TypeORM.",
+                    "Integrated web modules using JavaScript, React, and TypeScript. Implemented and optimized payment flows with Stripe, including billing and transaction processing.",
+                    "Built background processes with CRON Jobs for payment status updates and asynchronous workflows.",
+                    "Automated unit testing (Jest) and end-to-end testing (Cypress), including design and execution of functional test plans. Actively contributed to CI/CD pipelines and deployment processes using GitFlow, Git, GitLab/GitHub, Jenkins, Docker, and AWS EC2.",
+                    "Collaborated closely with multidisciplinary teams, including MQ, CRM, SAP, and business stakeholders, ensuring proper alignment between technical requirements and business objectives."
+                ]
+            },
+            {
+                "name": "Prointernet MX",
+                "mode": "On site",
+                "role": "Backend Developer | Team Leadership & Mentorship",
+                "duration": "Jun 2019 - Jun 2024",
+                "description": "Contributed to the development of E-Commerce platforms (B2C/B2B), Event Management Systems (EventTech solutions), and a Logistics Management System, focused on high-traffic environments, payment integration, online invoicing, security, and scalable architectures. Provided technical mentorship and team support.",
+                "details": [
+                    "Designed and modeled databases using SQL Server and MySQL (DDL/DML).",
+                    "Integrated payment gateways including BBVA, Banorte, Clip, and PayPal.",
+                    "Implemented electronic invoicing (CFDI 3.3 and 4.0) using RealVirtual (PAC).",
+                    "Developed ETL processes using MSSQL Bulk and Node.js (CRON Jobs).",
+                    "Built persistent shopping carts and real-time updates using WebSockets.",
+                    "Developed pre-registration and payment modules with Clip, including reconciliation via Webhooks.",
+                    "Implemented access control systems using QR and NFC technologies.",
+                    "Developed online/offline check-in modules using Electron.js.",
+                    "Created dashboards using JavaScript, React.js, and Google Charts.",
+                    "Designed secure REST APIs using JavaScript, TypeScript, TypeORM, JWT, and RSA/RS256.",
+                    "Developed parcel and logistics management systems (TMS) and POS modules using JavaScript, React.js, and Electron.js. Remediated up to 100% of vulnerabilities detected by tools such as Tenable.",
+                    "Implemented security policies including CSP, Permissions-Policy, Cache-Control, among others.",
+                    "Managed repositories using Git and GitHub, and performed deployments on Azure."
+                ]
+            },
+            {
+                "name": "Grupo Crea",
+                "mode": "Remote",
+                "role": "Backend Developer",
+                "duration": "Feb 2022 - May 2022",
+                "description": "Digital Radio Mobile Application.",
+                "details": [
+                    "Designed and implemented RESTful APIs for live streaming, news publishing, and advertising management features.",
+                    "Developed backend services using JavaScript, TypeScript, Node.js, and Express.",
+                    "Deployed, operated, and maintained services on DigitalOcean, using Git and GitHub for version control and collaboration."
+                ]
+            }
+        ]
+    }
+}

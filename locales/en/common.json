@@ -1,0 +1,13 @@
+{
+    "menu": {
+        "about": "About me",
+        "resume": "Resume",
+        "experience": "Experience",
+        "portfolio": "Portfolio",
+        "contact": "Contact me"
+    },
+    "titles": {
+        "skills": "Skills",
+        "projects": "Projects"
+    }
+}
