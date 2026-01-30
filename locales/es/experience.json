@@ -88,7 +88,7 @@
             },
             {
                 "title": "Microservicios y DevOps",
-                "icons": ["docker","aws","git","github","gitlab","linux","jenkins","nginx"]
+                "icons": ["docker","aws", "digitalocean-other","git","github","gitlab","linux","jenkins","nginx"]
             },
             {
                 "title": "Bases de datos",

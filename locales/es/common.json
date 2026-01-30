@@ -8,6 +8,8 @@
     },
     "titles": {
         "skills": "Habilidades",
-        "projects": "Proyectos"
+        "projects": "Proyectos",
+        "next": "Próximo",
+        "previous": "Anterior"
     }
 }
