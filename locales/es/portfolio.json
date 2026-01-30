@@ -4,111 +4,698 @@
         "title": "Portafolio",
         "topics": [
             {
-                "title": "E-Commerce a la Medida",
-                "link": "/portfolio/ecommerce",
-                "image": ["/projects/ecommerce.png", "/projects/payments.png", "/projects/events.png"],
-                "description": "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
+                "title": "Migración de Monolito a Microservicios: Escalando una plataforma de impacto nacional",
+                "date": "2024 - 2025",
+                "link": "/portfolio/monolito-to-microservices",
+                "image": ["/portfolio/microservices/microservices.png"],
+                "description": "Escalamiento y optimización de proyecto nacional de carácter gubernamental con alto impacto empresarial y social dentro del sector inmobiliario.",
                 "detail": [
                     {
-                        "title": "Plataformas de Comercio Electrónico Escalables",
-                        "imageAlignment": "left",
-                        "image": "/projects/ecommerce.png",
+                        "title": "Sobre mi experiencia",
                         "description": [
-                            "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
-                            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium iste natus error sit voluptatem accusantium iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                            "Uno de los proyectos más relevantes en los que participé fue un proyecto nacional de carácter gubernamental con alto impacto empresarial y social dentro del **sector inmobiliario**. El objetivo principal era transformar una plataforma empresarial monolítica en una arquitectura moderna basada en **Microservicios**, capaz de escalar, mantenerse y evolucionar de forma sostenible."
                         ]
                     },
                     {
                         "description": [
-                            "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
-                            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                            "Mi rol se centró en el diseño y desarrollo de múltiples **servicios RESTful**, utilizando patrones de diseño, principios **SOLID** y una arquitectura pensada en **DevOps** con **CI/CD** con:"
                         ]
                     },
                     {
-                        "title": "Plataformas para Eventos Empresariale",
-                        "imageAlignment": "center",
+                        "is_col": true,
                         "description": [
-                            "Diseño y desarrollo de plataformas de comercio electrónico personalizadas, seguras y altamente escalables, orientadas a resultados.",
-                            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                            "Stack utilizado en el desarrollo:\n- **Node.js** con **TypeScript**\n- Web server con **Express.js**\n- **Websockets** y **Resumables** \n- **Jest** para pruebas unitarias\n- **SonarQube** para calidad de código\n- Gestión de repositorios con **Git** y **GitLab**\n- Servidores Linux",
+                            "Cada microservicio fue desarrollado bajo un enfoque de:\n- Código limpio.\n- Alta cohesión y bajo acoplamiento.\n- **Documentación** clara.\n- Pruebas automatizadas.\n- Integración continua."
                         ]
                     },
                     {
-                        "title": "Plataformas para Eventos Empresariale",
-                        "textType": "list",
-                        "image": "/projects/ecommerce.png",
+                        "description": "Además, colaboré en el desarrollo de nuevos módulos frontend utilizando **React.js** y **TypeScript**, complementando el ecosistema de microservicios con interfaces modernas y robustas, junto con la implementación de pruebas **E2E** con **Cypress**."
+                    },
+                    {
+                        "title": "Seguridad y calidad: remediación de vulnerabilidades en entornos productivos",
                         "description": [
-                            "Diseño y desarrollo de plataformas",
-                            "Sed ut perspiciatis unde omnis iste",
-                            "architecto beatae vitae dicta sunt explicabo",
-                            "architecto beatae vitae dicta"
+                            "Una de mis principales contribuciones técnicas fue la **atención y remediación de vulnerabilidades** detectadas tanto en backend como en frontend. Gracias a experiencias previas, participé activamente en la corrección del **100% de las vulnerabilidades** asociadas a los microservicios y módulos web bajo mi responsabilidad.",
+                            "Este trabajo incluyó:\n- Análisis de seguridad con **SonarQube** y **Fortify**.\n- Refactorización de código vulnerable.\n- Mejora de estándares de calidad.\n- Validación posterior de correcciones.",
+                            "Este enfoque permitió elevar significativamente la calidad del software, reducir riesgos operativos y garantizar la viabilidad técnica del proyecto en producción."
+                        ]
+                    },
+                    {
+                        "title": "Ingeniería del software en la práctica: procesos, automatización y despliegue",
+                        "description": [
+                            "Además del desarrollo funcional, participé de forma activa en todo el ciclo de vida del software:\n- Diseño de diagramas de flujo y documentación de arquitectura de servicios.\n- Implementación de pipelines de **CI/CD**.\n- Elaboración de documentación técnica de **microservicios**.\n- Diseño y ejecución de matrices de pruebas funcionales.\n- Automatización de pruebas unitarias y end-to-end.",
+                            "Despliegue de microservicios utilizando:\n- **Git** como control de versiones.\n- **GitLab** para la gestión de repositorios.\n- **GitFlow** como flujo de trabajo continuo.\n- **Jenkins** para automatización de CI/CD.\n- **Nginx** como proxy inverso y balanceo de carga",
+                            "Este enfoque integral me permitió no solo escribir código, sino contribuir a la estabilidad, escalabilidad y mantenibilidad del sistema a largo plazo."
                         ]
                     }
-                ]
+                ],
+                "techskills": {
+                    "title": "Habilidades Tech",
+                    "skills": [
+                        {
+                            "title": "Backend y gestión",
+                            "icons": [
+                                "nodejs",
+                                "js",
+                                "typescript",
+                                "express",
+                                "nginx",
+                                "git",
+                                "github",
+                                "azure",
+                                "ms-other",
+                                "ubuntu",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "title": "Registros web y escritorio",
+                            "icons": [
+                                "js",
+                                "typescript",
+                                "html",
+                                "css",
+                                "handlebars_js-other",
+                                "react",
+                                "electron",
+                                "redux"
+                            ]
+                        },
+                        {
+                            "title": "Bases de datos",
+                            "icons": [
+                                "mssql-other",
+                                "sql_azure-other"
+                            ]
+                        },
+                        {
+                            "title": "Procesamiento de pagos",
+                            "icons": [
+                                "clip-other",
+                                "paypal2-other"
+                            ]
+                        },
+                        {
+                            "title": "Otras herramientas",
+                            "icons": [
+                                "postman",
+                                "npm",
+                                "vscode"
+                            ]
+                        }
+                    ]
+                }
             },
             {
-                "title": "Facturación Electrónica y Procesamiento de Pagos",
-                "link": "/portfolio/payments",
-                "image": "/projects/payments.png",
-                "description": "Implementación de sistemas de facturación electrónica y pasarelas de pago seguras, cumpliendo estándares fiscales y de seguridad.",
+                "title": "RESTful APIs con NestJS para aplicaciones móviles de entretenimiento y eventos",
+                "date": "2024 - 2025",
+                "link": "/portfolio/restful-apis-whith-nestjs",
+                "image": ["/portfolio/events/music-event-2.png"],
+                "description": "Desarrollo para un cliente internacional del sector entretenimiento, enfocado en eventos musicales, venta de boletos en línea y procesamiento de pagos.",
                 "detail": [
                     {
-                        "title": "Plataformas de Comercio Electrónico Escalables",
-                        "image": "",
-                        "description": ""
+                        "title": "Sobre mi experiencia",
+                        "description": [
+                            "Además del proyecto gubernamental, tuve la oportunidad de colaborar con un **cliente internacional** del sector entretenimiento, enfocado en **eventos musicales**, **venta de boletos** en línea y **procesamiento de pagos**.",
+                            "En este proyecto participé como **Backend Developer** en la construcción de endpoints **RESTful** para el consumo de una aplicación móvil, bajo una arquitectura backend modular diseñada para soportar alta concurrencia y flujos financieros críticos."
+                        ]
+                    },
+                    {
+                        "title": "Arquitectura modular con NestJS y procesamiento de pagos"
+                    },
+                    {
+                        "description": [
+                            "Mis principales aportaciones técnicas incluyeron:\n- Desarrollo de endpoints dentro de una arquitectura modular con **NestJS**.\n- Optimización y refactorización de flujos de pago utilizando **Stripe**.\n- Implementación de procesos en segundo plano mediante **CRON Jobs** para actualización de estados de pago.\n- Desarrollo de funcionalidades de **pagos grupales**.\n- Gestión de datos con **PostgreSQL**."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "El backend fue desarrollado utilizando **NestJS**, lo que permitió:\n- Modularizar el sistema.\n- Definir claramente responsabilidades por dominio.\n- Mejorar la escalabilidad y mantenibilidad.",
+                            "Modelado de entidades y estructuras de datos utilizando:\n- **TypeORM** con **PostgreSQL**\n- **Modules**\n- **Entities**\n - Etc",
+                            "Despliegue continuo mediante:\n- **Git** como control de versiones.\n- **GitLab** para la gestión de repositorios.\n- **GitFlow** como flujo de trabajo continuo.\n- **Jenkins** para automatización de CI/CD.\n- **Nginx** como proxy inverso y balanceo de carga.\n- **AWS EC2** para producción."
+                        ]
                     }
-                ]
+                ],
+                "techskills": {
+                    "title": "Habilidades Tech",
+                    "skills": [
+                        {
+                            "title": "Backend y gestión",
+                            "icons": [
+                                "nodejs",
+                                "js",
+                                "typescript",
+                                "express",
+                                "nginx",
+                                "git",
+                                "github",
+                                "azure",
+                                "ms-other",
+                                "ubuntu",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "title": "Registros web y escritorio",
+                            "icons": [
+                                "js",
+                                "typescript",
+                                "html",
+                                "css",
+                                "handlebars_js-other",
+                                "react",
+                                "electron",
+                                "redux"
+                            ]
+                        },
+                        {
+                            "title": "Bases de datos",
+                            "icons": [
+                                "mssql-other",
+                                "sql_azure-other"
+                            ]
+                        },
+                        {
+                            "title": "Procesamiento de pagos",
+                            "icons": [
+                                "clip-other",
+                                "paypal2-other"
+                            ]
+                        },
+                        {
+                            "title": "Otras herramientas",
+                            "icons": [
+                                "postman",
+                                "npm",
+                                "vscode"
+                            ]
+                        }
+                    ]
+                }
             },
             {
-                "title": "Plataformas para Eventos Empresariales",
+                "title": "Backend Developer y Staff Técnico en Eventos Empresariales a nivel nacional",
+                "date": "2022 - 2024",
                 "link": "/portfolio/events",
-                "image": "/projects/events.png",
-                "description": "Soluciones digitales para la gestión integral de eventos corporativos, registro de asistentes, networking y analítica avanzada.",
+                "image": [
+                    "/portfolio/events/event-7.png",
+                    "/portfolio/events/event-1.png",
+                    "/portfolio/events/event-6.jpg",
+                    "/portfolio/events/event-2.png",
+                    "/portfolio/events/event-3.jpg",
+                    "/portfolio/events/event-4.jpg",
+                    "/portfolio/events/event-5.jpg"
+                ],
+                "description": "Creación de un ecosistema digital gradual, escalable y robusto: Compra de boletos en línea, pagos con Clip y PayPal, registro de asistentes, expositores, patrocinadores y speakers.",
                 "detail": [
                     {
-                        "title": "Plataformas de Comercio Electrónico Escalables",
-                        "image": "",
-                        "description": ""
+                        "title": "Sobre mi experiencia",
+                        "description": [
+                            "Los **Eventos Empresariales** representaron un reto técnico distinto: construir sistemas que funcionaran de forma confiable tanto en cloud como en servidores físicos dedicados, con infraestructura variable y alta concurrencia.",
+                            "Entre **2022** y **2024** participé como **Backend Developer**, **Staff Técnico** y **Soporte Operativo** en la organización y ejecución de eventos empresariales a nivel nacional dentro del sector gasolinero:"
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "Participación en varios eventos\n- Nexon | Tamaulipas (2020)\n- Onexpo | Mérida (2022)\n- Onexpo | Puebla (2022)\n- Onexpo | Acapulco (2023)\n- Onexpo | Oaxaca (2023)\n- Canaco | Tamaulipas (2023)\n- Onexpo | Cancún (2024)",
+                            "Arquitectura del ecosistema\n- Backend con **Node.js**, **Express.js** y **TypeScript**.\n- **RESTful APIs** modulares.\n- Aplicaciones web **SPA** con **React.js**.\n- Aplicaciones de escritorio con **Electron.js** para operación offline.\n- Bases de datos en **SQL Server**, con sincronización **batch** y diferencial."
+                        ]
+                    },
+                    {
+                        "description": [
+                            "Mi responsabilidad fue contribuir al desarrollo de múltiples **Servicios Web**, **RESTful APIs** y brindar liderazgo técnico para cumplir los objetivos del cliente **antes**, **durante** y **después** de cada evento.",
+                            "Junto con el equipo de desarrollo, construimos un ecosistema digital gradual, escalable y robusto que integraba: **Base de datos**, **Microservicios**, **Aplicaciones Web** y **Aplicaciones Móviles**."
+                        ]
+                    },
+                    {
+                        "title": "Antes del evento: Difusión, ventas y logística",
+                        "description":  "Durante esta etapa contribuimos al desarrollo de plataformas que soportaron la difusión, registro y gestión del evento, captando más de 2,000 registros por evento entre **asistentes**, **expositores**, **patrocinadores** y **speakers**."
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "**Plataforma de pre-registros (SPA con React.js)**\n- Compra de **boletos en línea**.\n- Integración de **pagos** con **Clip** y **PayPal**.\n- Registro individual y grupal de asistentes.\n- Registro de hoteles y habitaciones.\n- Generación automática de códigos **QR** para acceso.\n- Envío de correos electrónicos con confirmaciones y QR.\n- Registro privado para **expositores**, **patrocinadores** y **speakers**.",
+                            "**Plataforma de Sistema de gestión administrativa y contable**\n- Dashboards de análisis de datos.\n- Métricas sobre registros y ventas.\n- Configuración de precios y eventos.\n- Registro especial de asistentes.\n- Módulo de conciliación de pagos usando **Webhooks** de **Clip**.\n- Generación de reportes desde **SQL Server** a **Excel**.\n- Visualización de asistentes y datos fiscales para facturación posterior."
+                        ]
+                    },
+                    {
+                        "title": "Durante el evento: Operación en tiempo real",
+                        "description":  "Durante los días del evento, nos enfocamos en garantizar la correcta funcionalidad de todos los sistemas, brindando soporte técnico continuo y asegurando que se cumplieran los objetivos del cliente."
+                    },
+                    {
+                        "description": [
+                            "**Cloud, Servidor offline y Mesa de Registro**\n- Desarrollo de sistema de check-in offline con **React.js** y **Electron.js**.\n- Automatización de procesos con **TypeScript**, **JavaScript**, **Cron Jobs**, **MSSQL Bulk** y **SQL Server**.\n- Programación de tarjetas **NFC** y generación de **QR Codes**.\n- Visualización y búsqueda de registros en tiempo real.\n- Escaneo de **QR** y **NFC** para control de accesos.\n- Integración de **kioskos** para compra de boletos en sitio."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "**Staff Técnico y Operativo**\n- **Capacitación a staff** de terceros.\n- Acompañamiento técnico durante el evento.\n- Resolución de incidencias en tiempo real.\n- **Análisis de datos** y generación de **reportes**.\n- Soporte a **asistentes**.\n- Capacitación a **expositores** y **patrocinadores** en el uso de aplicaciones móviles para **prospección de clientes**.",
+                            "**RESTful APIs para Aplicaciones Móviles**\n- Implementación de RESTful APIs con Node.js, Express y TypeScript.\n- Módulos de networking entre asistentes.\n- Dinámicas de gamificación para obtención de premios.\n- Control de asistencia a conferencias."
+                        ]
+                    },
+                    {
+                        "title": "Después del evento: Cierre y mejora continua",
+                        "description": "Al finalizar cada evento, brindamos soporte técnico al comité organizacional, apoyando en:\n\n- Entrega de reportes desde **SQL Server** sobre **registros** y **ventas**.\n- Cierre de registros.\n- Desacoplamiento de servicios.\n- **Inventariado** y revisión de **equipo técnico**.\n- Sesiones de retroalimentación.\n- Planeación de mejoras continuas para futuros eventos."
                     }
-                ]
+                ],
+                "techskills": {
+                    "title": "Habilidades Tech",
+                    "skills": [
+                        {
+                            "title": "Backend y gestión",
+                            "icons": [
+                                "nodejs",
+                                "js",
+                                "typescript",
+                                "express",
+                                "nginx",
+                                "git",
+                                "github",
+                                "azure",
+                                "ms-other",
+                                "ubuntu",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "title": "Registros web y escritorio",
+                            "icons": [
+                                "js",
+                                "typescript",
+                                "html",
+                                "css",
+                                "handlebars_js-other",
+                                "react",
+                                "electron",
+                                "redux"
+                            ]
+                        },
+                        {
+                            "title": "Bases de datos",
+                            "icons": [
+                                "mssql-other",
+                                "sql_azure-other"
+                            ]
+                        },
+                        {
+                            "title": "Procesamiento de pagos",
+                            "icons": [
+                                "clip-other",
+                                "paypal2-other"
+                            ]
+                        },
+                        {
+                            "title": "Otras herramientas",
+                            "icons": [
+                                "postman",
+                                "npm",
+                                "vscode"
+                            ]
+                        }
+                    ]
+                }
             },
             {
-                "title": "Gestión Administrativa y Financiera",
-                "link": "/portfolio/management",
-                "image": "/projects/management.png",
-                "description": "Desarrollo de sistemas administrativos y financieros para control, automatización y toma de decisiones estratégicas.",
+                "title": "E-Commerce, Procesamiento de Pagos y Sincronización Empresarial",
+                "date": "2021 - 2023",
+                "link": "/portfolio/ecommerce",
+                "image": "/portfolio/ecommerce.png",
+                "description": "Desarrollo de una plataforma de E-Commerce a la medida para uno de los grupos empresariales más importantes a nivel nacional, optimizando operaciones de venta al detalle y mayoreo.",
                 "detail": [
                     {
-                        "title": "Plataformas de Comercio Electrónico Escalables",
-                        "image": "",
-                        "description": ""
+                        "title": "Sobre mi experiencia",
+                        "description": "En **2021** comencé a colaborar con uno de los clientes más importantes de la empresa: **Grupo Ibarra**, una organización con operación nacional en el sector comercial. Este proyecto marcó una etapa clave en mi consolidación como desarrollador backend, especialista en **e-commerce** y **procesamiento de pagos**."
+                    },
+                    {
+                        "title": "E-Commerce Retail (Venta a menudeo)",
+                        "description": "Mi primer proyecto de **E-Commerce** fue el desarrollo completo y a la medida de una tienda en línea para venta de abarrotes al menudeo. Este proyecto implicó transformar una operación 100% física en una operación híbrida **físico-digital** donde uno de los retos más importantes fue la integración con el **ERP** del cliente y los puntos de venta de **6 CEDIS** nacionales."
+                    },
+                    {
+                        "description": [
+                            "Lo que requirió:\n- Sincronización con sistemas internos del cliente.\n- Diseño de flujos de compra, validación y control de stock.\n- Proceso de venta online con **pago contra entrega**.\n- Envío de notificaciones de compra a cada **CEDIS** y clientes.\n- Coordinación con equipos técnicos y operativos del cliente."
+                        ]
+                    },
+                    {
+                        "title": "E-Commerce Mayorista (Venta a mayoreo)",
+                        "description": "Posteriormente, desarrollamos un segundo **e-commerce** independiente para una de las líneas de negocio más importantes del cliente: la **venta a mayoreo**. Aunque compartía ciertos componentes con el **sistema retail**, este proyecto requirió de funciones puntuales:"
+                    },
+                    {
+                        "description": "Valor añadido:\n- Lógica de negocio distinta para cierres de venta.\n- **Procesamiento de pagos** en línea.\n- Integración de pasarelas de pago **BBVA** y **Banorte**\n- **Certificación** y **auditorías** por los bancos.\n- Validación de estabilidad y rendimiento.\n- Manejo de reintentos seguros y recuperación ante fallos."
+                    },
+                    {
+                        "title": "Automatización y Carga Masiva de Datos",
+                        "description": [
+                            "Para mantener la información sincronizada en tiempo real entre el **ERP** del cliente y los **E-Commerce**, diseñe e implemente procesos automatizados de carga masiva de datos donde uno de los retos técnicos más relevantes fue la sincronización de grandes volúmenes de datos (**Artículos**, **Stock**, **Sucursales**, **Precios**, etc..) entre ambos sistemas, bajo restricciones de tiempo y disponibilidad.",
+                            "Dado que el **ERP** tenía limitaciones para exponer datos en tiempo real, diseñamos procesos batch optimizados capaces de procesar más de **80,000 registros** en menos de 30 segundos, de forma periódica y segura."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "Procesos **batch** implementados con:\n- **Node.js** con **Express.js**\n- **JavaScript** y **TypeScript**\n- **SQL Server** con **MSSQL Bulk**\n- **Cron Jobs** en segundo plano\n- Uso de **algoritmos de cifrado** para proteger información sensible.\n- Diseño de pipelines de datos con **validación**, **transformación** y **persistencia**.",
+                            "Resultados técnicos:\n- Proceso **batch autoescalado**\n- Procesamiento de **+80,000 registros** en menos de 30 segundos.\n- Alta disponibilidad.\n- Integridad de datos.\n- Resiliencia ante fallos parciales."
+                        ]
+                    },
+                    {
+                        "description": "Esto permitió que los **e-commerce** reflejaran información actualizada sin afectar el rendimiento ni la estabilidad de los sistemas."
+                    },
+                    {
+                        "title": "Atención de Vulnerabilidades con Tenable",
+                        "description": [
+                            "Como parte de la maduración de los sistemas de e-commerce, se integraron herramientas de análisis de seguridad como **Tenable** para identificar vulnerabilidades en los sistemas.",
+                            "Mi responsabilidad fue:\n\n- Analizar los reportes de vulnerabilidades.\n- Priorizar riesgos.\n- Implementar soluciones a nivel **Backend** y **Frontend**.\n- Validar correcciones.",
+                            "Gracias a este proceso se logró resolver **hasta el 90% de las vulnerabilidades detectadas**, fortaleciendo significativamente la postura de seguridad de las plataformas desarrolladas."
+                        ]
                     }
-                ]
+                ],
+                "techskills": {
+                    "title": "Habilidades Tech",
+                    "skills": [
+                        {
+                            "title": "Backend developer",
+                            "icons": [
+                                "nodejs",
+                                "js",
+                                "typescript",
+                                "express",
+                                "nginx",
+                                "git",
+                                "github",
+                                "azure",
+                                "ms-other"
+                            ]
+                        },
+                        {
+                            "title": "Frontend developer",
+                            "icons": [
+                                "js",
+                                "typescript",
+                                "html",
+                                "css",
+                                "handlebars_js-other"
+                            ]
+                        },
+                        {
+                            "title": "Bases de datos",
+                            "icons": [
+                                "mssql-other",
+                                "sql_azure-other",
+                                "azure_sql-other"
+                            ]
+                        },
+                        {
+                            "title": "Otras herramientas",
+                            "icons": [
+                                "postman",
+                                "npm",
+                                "vscode"
+                            ]
+                        },
+                        {
+                            "title": "Implementaciones",
+                            "icons": [
+                                "bbva-other",
+                                "banorte-other"
+                            ]
+                        }
+                    ]
+                }
             },
             {
-                "title": "Sistemas de Punto de Venta (POS)",
-                "link": "/portfolio/pos",
-                "image": "/projects/pos.png",
-                "description": "Implementación de sistemas POS modernos para ventas, inventarios, facturación y reportes en tiempo real.",
+                "title": "Transformación digital para radio por internet",
+                "date": "2021 - 2022",
+                "link": "/portfolio/digital-radio",
+                "image": ["/portfolio/digital-radio/gpocrea.png"],
+                "description": "Desarrollo para un cliente internacional del sector entretenimiento, enfocado en eventos musicales, venta de boletos en línea y procesamiento de pagos.",
                 "detail": [
                     {
-                        "title": "Plataformas de Comercio Electrónico Escalables",
-                        "image": "",
-                        "description": ""
+                        "title": "Sobre mi experiencia",
+                        "description": [
+                            "Mi colaboración con **Grupo Crea**, una estación de radio digital por internet, representó uno de mis primeros proyectos de impacto directo en la transformación digital de un negocio tradicional de medios hacia un modelo moderno, móvil y escalable.",
+                            "En este proyecto participé como **Backend Developer** y **Gestor de Requerimientos**, trabajando junto a un equipo independiente de desarrolladores y colaborando estrechamente con el cliente para entender sus necesidades, traducirlas a soluciones técnicas y acompañarlos durante todo el proceso de adopción tecnológica."   
+                        ]
+                    },
+                    {
+                        "title": "De la radio tradicional al streaming digital",
+                        "description": [
+                            "El objetivo principal era construir una **aplicación móvil** que permitiera:\n- Transmitir programas de radio en tiempo real.\n- Generar contenido digital.\n- Crear campañas de publicidad.\n- Fortalecer la presencia de la marca en el entorno digital.",
+                            "Uno de los mayores retos fue **integrar la infraestructura local de la estación** con servicios digitales de streaming, logrando que la transmisión en vivo pudiera fluir de forma estable desde su estación física hacia dispositivos móviles en tiempo real.",
+                            "Este proyecto no solo implicó desarrollo de software, sino también **ingeniería de integración**, entendimiento del negocio y acompañamiento técnico al cliente."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "**Infraestructura y operación**\n- **DigitalOcean** como servidor virtual.\n- Servidor de streaming de terceros integrado a la aplicación.\n- Control de versiones con **Git**, **GitHub** y flujo de trabajo con **Git Workflow**.",
+                            "**Backend**\n- **Node.js**\n- **JavaScript** y **TypeScript**\n- **Express.js** como framework backend."
+                        ]
+                    },
+                    {
+                        "description": "Este proyecto marcó un antes y un después para la empresa, al permitirle evolucionar de una estación de radio digital limitada a una **plataforma multimedia moderna**."
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "La aplicación permitió a **Grupo Crea**:\n- Transmitir sus programas en tiempo real a través de dispositivos móviles.\n- Posicionar su marca en el entorno digital.",
+                            "Crear campañas publicitarias mediante:\n- **Banners**.\n- **Contenido promocional**.\n- Un **blog de noticias** integrado en la aplicación."
+                        ]
+                    },
+                    {
+                        "title": "Entrega, acompañamiento y adopción",
+                        "description": [
+                            "El proyecto fue desarrollado y entregado en un plazo de 3 meses, cumpliendo con todos los requerimientos funcionales y técnicos. Además, brindé acompañamiento al cliente durante el proceso de:",
+                            "Presentación del proyecto.\n- Entrega de funcionalidades.\n- **Integración híbrida** entre su estación digital y la transmisión vía streaming.\n- **Adopción operativa** de la nueva plataforma."
+                        ]
+                    },
+                    {
+                        "title": "Lo que aporté como profesional",
+                        "description": [
+                            "Más allá del desarrollo técnico, este proyecto fortaleció mi perfil como:",
+                            "- **Traductor** entre negocio y tecnología.\n- **Arquitecto de soluciones** prácticas para clientes reales.\n- Profesional orientado a resultados, tiempos y **valor de negocio**.\n- Desarrollador con sensibilidad hacia producto, usuario final y marca."
+                        ]
                     }
-                ]
+                ],
+                "techskills": {
+                    "title": "Habilidades Tech",
+                    "skills": [
+                        {
+                            "title": "Backend y gestión",
+                            "icons": [
+                                "nodejs",
+                                "js",
+                                "typescript",
+                                "express",
+                                "nginx",
+                                "git",
+                                "github",
+                                "azure",
+                                "ms-other",
+                                "ubuntu",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "title": "Registros web y escritorio",
+                            "icons": [
+                                "js",
+                                "typescript",
+                                "html",
+                                "css",
+                                "handlebars_js-other",
+                                "react",
+                                "electron",
+                                "redux"
+                            ]
+                        },
+                        {
+                            "title": "Bases de datos",
+                            "icons": [
+                                "mssql-other",
+                                "sql_azure-other"
+                            ]
+                        },
+                        {
+                            "title": "Procesamiento de pagos",
+                            "icons": [
+                                "clip-other",
+                                "paypal2-other"
+                            ]
+                        },
+                        {
+                            "title": "Otras herramientas",
+                            "icons": [
+                                "postman",
+                                "npm",
+                                "vscode"
+                            ]
+                        }
+                    ]
+                }
             },
             {
-                "title": "Migración y Microservicios",
-                "link": "/portfolio/microservices",
-                "image": "/projects/microservices.png",
-                "description": "Transformación de sistemas monolíticos hacia arquitecturas de microservicios escalables, resilientes y orientadas al crecimiento.",
+                "title": "Automatización de Procesos y Facturación Electrónica",
+                "date": "2020 - 2021",
+                "link": "/portfolio/billing-and-automation",
+                "image": "/portfolio/biling-automation.png",
+                "description": "Construcción de una plataforma nacional para el sector gasolinero, automatizando procesos críticos e implementando una solución de facturación electrónica.",
                 "detail": [
                     {
-                        "title": "Plataformas de Comercio Electrónico Escalables",
-                        "image": "",
-                        "description": ""
+                        "title": "Diseño de servicios críticos regulados",
+                        "description": "En 2020 asumí la responsabilidad técnica de un proyecto nacional para el **sector gasolinero**, cuyo objetivo era digitalizar y automatizar procesos administrativos, contables y operativos que hasta entonces se realizaban de forma manual o semi-automatizada."
+                    },
+                    {
+                        "description": "El sistema se diseñó en torno a cuatro módulos principales:\n\n1. **Módulo de generación de órdenes de compra**\n2. **Módulo de gestión administrativa**\n3. **Módulo contable**\n4. **Módulo de operaciones**"
+                    },
+                    {
+                        "description": "Además de participar en el desarrollo, asumí un rol de **liderazgo técnico**, coordinando al equipo y dando seguimiento a los requerimientos funcionales. Mis responsabilidades incluyeron:\n\n- Levantamiento y análisis de requerimientos.\n- Diseño de diagramas **UML** y **ERD**.\n- Planeación de arquitectura del sistema.\n- Supervisión del desarrollo y control de calidad."
+                    },
+                    {
+                        "title": "Facturación electrónica como reto principal",
+                        "description": "Mi principal aportación técnica se concentró en los módulos administrativo y contable, especialmente en la implementación del servicio de facturación electrónica. Este fue uno de los mayores retos del proyecto, ya que implicaba:\n\n- Investigación profunda de los procesos fiscales del **SAT**.\n- Análisis de proveedores autorizados de certificación (**PAC**).\n- Selección del proveedor más adecuado según costos, disponibilidad, soporte y escalabilidad.\n- Documentación completa de los procesos fiscales y técnicos.\n- Implementación del servicio de facturación utilizando: (**Node.js**, **JavaScript**, **TS**, **Express**, **SQL Server**, **Azure**)"
+                    },
+                    {
+                        "title": "Desarrollo Frontend",
+                        "description": "Como Fullstack Developer, también participé activamente en el desarrollo de varios submódulos frontend utilizando **React.js** y **Redux**, implementando interfaces **SPA** orientadas a la experiencia del usuario, con flujos claros y consistentes."
+                    },
+                    {
+                        "title": "Enfoque en operación real",
+                        "description": [
+                            "Dado el alto nivel de complejidad operativa del cliente, el sistema se desarrolló en paralelo con su infraestructura existente. Esto implicó:\n- Trabajo cercano con el cliente.\n- Validación continua de cada requerimiento.\n- Planeación de estrategias de migración.\n- Ejecución controlada de despliegues a producción.",
+                            "El resultado fue un sistema que no solo automatizó procesos críticos, sino que también permitió al cliente operar de forma más eficiente, segura y trazable."
+                        ]
                     }
-                ]
+                ],
+                "techskills": {
+                    "title": "Habilidades Tech",
+                    "skills": [
+                        {
+                            "title": "Fullstack developer",
+                            "icons": [
+                                "nodejs",
+                                "js",
+                                "typescript",
+                                "express",
+                                "react",
+                                "html",
+                                "css",
+                                "sass",
+                                "nginx",
+                                "git",
+                                "github",
+                                "azure"
+                            ]
+                        },
+                        {
+                            "title": "Bases de datos",
+                            "icons": [
+                                "mssql-other"
+                            ]
+                        },
+                        {
+                            "title": "Otras herramientas",
+                            "icons": [
+                                "postman",
+                                "npm",
+                                "vscode"
+                            ]
+                        },
+                        {
+                            "title": "Implementaciones",
+                            "icons": [
+                                "sat-other"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Migración de ASP Classic (Legacy) a Node.js",
+                "date": "2019 - 2022",
+                "link": "/portfolio/asp-classic-to-node",
+                "image": [
+                    "/portfolio/asp-to-nodejs.png"
+                ],
+                "description": "Lideré junto a un equipo de desarrollo, la modernización de la infraestructura crítica de Prointernet para sustituir sistemas obsoletos en ASP Classic.",
+                "detail": [
+                    {
+                        "title": "Cambio crítico y emergente de Backend",
+                        "imageAlignment": "left",
+                        "description": [
+                            "Mi primera gran responsabilidad en **Prointernet** surgió a partir de una necesidad crítica de la empresa: su infraestructura backend basada en **ASP Classic** presentaba problemas severos de obsolescencia, seguridad y escalabilidad. Estos riesgos amenazaban la estabilidad de los servicios existentes y la capacidad de la empresa para desarrollar nuevos productos digitales.",
+                            "Para atender esta situación, se conformó un equipo dedicado, del cual formé parte, con la misión de diseñar una estrategia de modernización tecnológica. Creamos un laboratorio de pruebas donde investigamos, evaluamos y comparamos diferentes ecosistemas backend:"
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "<h1 class=\"text-base md:text-md font-semibold leading-tight text-gray-900 mb-2\"> Actividades realizadas:</h1>\n\n- Análisis comparativo de frameworks y arquitecturas.\n- Desarrollo de prototipos funcionales.\n- Pruebas de rendimiento, seguridad y escalabilidad.\n- Evaluación de costos de infraestructura y mantenimiento.\n- Compatibilidad con arquitecturas **RESTful** y **Event-Driven**.",
+                            "<h1 class=\"text-base md:text-md font-semibold leading-tight text-gray-900 mb-2\"> Frameworks analizados y propuestos:</h1>\n\n- **Laravel (PHP)** para MVC monolítico.\n- **Spring Boot (Java)** para arquitecturas empresariales robustas.\n- **.NET** para entornos corporativos.\n- **Node.js** para microservicios y APIs orientadas a eventos y asincronía."
+                        ]
+                    },
+                    {
+                        "description": "Como resultado de estas pruebas y considerando el giro de la empresa, se decidió adoptar **Node.js** como backend principal. A partir de ahí, iniciamos un proceso progresivo de migración de sistemas legacy de **ASP Classic** hacia **Node.js**, manteniendo siempre la operación activa sin afectar a los usuarios finales."
+                    },
+                    {
+                        "description": [
+                            "Entre 2019 y 2022 trabajé directamente en la migración y desarrollo de proyectos relacionados con:",
+                            "- Plataformas de **E-Commerce**.\n- **Landing pages** corporativas.\n- Sistemas **CMS**.\n- Sistemas de gestión administrativa.\n- **Aplicaciones web** para evaluaciones psicométricas.\n- Software especializado para el sector gasolinero."
+                        ]
+                    },
+                    {
+                        "description": [
+                            "Este proceso no solo implicó reescribir código, sino rediseñar arquitecturas, mejorar modelos de datos, optimizar flujos de negocio y establecer nuevas prácticas de desarrollo. Paralelamente, la empresa atravesó cambios organizacionales importantes. Evolucionamos junto con la compañía implementando:",
+                            "- Nuevos procesos de desarrollo.\n- Mejores prácticas de gestión operativa.\n- Metodologías ágiles como **Scrum**.\n- Integración de nuevos miembros al equipo técnico.\n- Exposición de **RESTful APIs** para desacoplar frontend y backend.\n- Reescritura de módulos críticos priorizando impacto en negocio y riesgo técnico.",
+                            "Esta etapa sentó las bases técnicas y culturales que permitieron escalar proyectos más complejos en los años siguientes."
+                        ]
+                    }
+                ],
+                "techskills": {
+                    "title": "Habilidades Tech",
+                    "skills": [
+                        {
+                            "title": "Fullstack developer",
+                            "icons": [
+                                "nodejs",
+                                "js",
+                                "typescript",
+                                "express",
+                                "react",
+                                "html",
+                                "css",
+                                "sass",
+                                "nginx",
+                                "git",
+                                "github",
+                                "azure"
+                            ]
+                        },
+                        {
+                            "title": "Bases de datos",
+                            "icons": [
+                                "mssql-other",
+                                "mysql",
+                                "firebase"
+                            ]
+                        },
+                        {
+                            "title": "Otras herramientas",
+                            "icons": [
+                                "postman",
+                                "npm",
+                                "vscode"
+                            ]
+                        },
+                        {
+                            "title": "Implementaciones",
+                            "icons": [
+                                "bbva-other",
+                                "paypal-other"
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -2,18 +2,28 @@
     "contact": {
         "title": "Contacto",
         "subtitle": "Conectemos",
-        "conatct": {
+        "messages": {
+            "name": "Nombre es obligatorio.",
+            "contact": "Selecciona el medio de contacto.",
+            "subject": "Asunto es obligatorio.",
+            "message": "Mensaje es obligatorio.",
+            "max_char": "Máximo 1,000 caracteres"
+        },
+        "contact_info": {
+            "address": "México",
+            "myname": "Victor Daniel",
+            "celphone": "+52 (833)-367-1211",
             "whatsapp": "5218333671211",
             "email": "victordaniel0101@gmail.com",
             "subject_static": "Contacto desde danielcl01.github.io",
             "text_static": "Hola Daniel, vi tu perfil profesional y me interesa conocer más sobre tu experiencia en desarrollo de software. ¿Podemos agendar una conversación?",
-            "text_dynamic": "Hola Daniel, soy {name}. Me comunico contigo por el tema: {subject}. {message}."
+            "text_dynamic": "*Nombre:* {name}\n*Tema:* {subject}\n*Mensaje:*\n{message}"
         },
         "form": {
             "title": "¿Como puedo ayudarte?",
             "name": "Nombre",
             "contact": "Medio de contacto",
-            "subject": "Asunto",
+            "subject": "Tema",
             "message": "Mensaje",
             "submit": "Enviar",
             "options": [
