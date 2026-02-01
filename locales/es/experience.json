@@ -5,21 +5,22 @@
             {
                 "name": "DaCodes",
                 "mode": "Remoto",
-                "role": "Senior Software Engineer",
+                "role": "Software Engineer | Backend Developer",
                 "duration": "Ago 2024 - Oct 2025",
-                "description": "Participé en el diseño, migración y escalamiento de un Enterprise Financial Portal (Fintech, Mortgage Lending) y en el desarrollo de una Music & Entertainment Events Web Application, ambos basados en microservices architecture, con enfoque en backend development, payments & billing, security, testing y CI/CD.",
+                "description": "En **DaCodes** me desempeñé como **Software Engineer** / **Backend Developer**, especializado en la migración de arquitecturas **monolíticas** a **microservicios** escalables, desarrollando **APIs RESTful** de alto rendimiento, participando activamente en pipelines de **CI/CD**, aseguramiento de calidad, **remediación de vulnerabilidades** y fortalecimiento continuo de seguridad, arquitectura y estabilidad operativa, siempre alineado a objetivos estratégicos del negocio.",
                 "details": [
-                    "Migración de arquitecturas monolíticas a microservicios, diseñando flujos UML / BPM y  documentación técnica.",
-                    "Fortalecimiento de la seguridad de aplicaciones web, remediando hasta el 98% de vulnerabilidades detectadas",
-                    "Análisis de calidad y seguridad con SonarQube y Fortify",
-                    "Desarrollo de microservicios y REST APIs con TypeScript, Node.js, Express y NestJS, aplicando patrones de diseño",
-                    "Modelado de datos y gestión de bases relacionales con PostgreSQL y TypeORM",
-                    "Integración de módulos web con JavaScript, React y TypeScript",
-                    "Implementación y optimización de flujos de pago con Stripe",
-                    "Implementación de procesos en segundo plano con CRON Jobs para actualización de estados de pago",
-                    "Automatización de pruebas unitarias (Jest) y end-to-end (Cypress), además de diseño y ejecución de pruebas funcionales",
-                    "Participación activa en pipelines CI/CD y despliegue de servicios usando GitFlow con Git, GitLab/GitHub, Jenkins, Docker y AWS EC2",
-                    "Colaboración y comunicación continua con equipos multidisciplinarios, incluyendo MQ, CRM, SAP y Business stakeholders, para asegurar la correcta alineación entre requerimientos técnicos y de negocio"
+                      {
+                        "title": "Migración de Monolitos a Microservicios",
+                        "type": "item",
+                        "description": "",
+                        "link": "/portfolio/monolito-to-microservices"
+                    },
+                    {
+                        "title": "RESTful APIs con NestJS para aplicaciones móviles internacionales",
+                        "type": "item",
+                        "description": "",
+                        "link": "/portfolio/restful-apis-whith-nestjs/"
+                    }
                 ]
             },
             {
@@ -27,22 +28,32 @@
                 "mode": "Presencial",
                 "role": "Backend Developer | Team Leadership & Mentorship",
                 "duration": "Jun 2019 - Jun 2024",
-                "description": "Colabore en la construcción de E-Commerce Platforms (B2C / B2B),  Event Management Systems (EventTech Solutions) y Logistics Management System, enfocadas en alto volumen de usuarios, integración de pagos, facturación en línea, seguridad y arquitecturas escalables. Realice mentoría técnica y apoyo en la gestión del equipo.",
+                "description": "Durante más de cuatro años me desempeñé como **Backend Developer**, especializado en el diseño, desarrollo y escalamiento de **APIs RESTful** de alta disponibilidad, **liderando** y **mentorando** equipos técnicos en proyectos empresariales críticos, automatización de procesos, integración de sistemas complejos y fortalecimiento continuo de seguridad, calidad de código y rendimiento, siempre alineado a objetivos estratégicos de negocio.",
                 "details": [
-                    "Diseño y modelado de bases de datos con SQL Server y MySQL (DDL/DML)",
-                    "Integración de pasarelas de pago: BBVA, Banorte, Clip, PayPal",
-                    "Implementación de facturación electrónica CFDI 3.3 y 4.0 con RealVirtual (PAC)",
-                    "Desarrollo de procesos ETL con MSSQL Bulk y Node.js (Cron Jobs)",
-                    "Construcción de carritos de compra persistentes y actualizaciones en tiempo real con WebSockets",
-                    "Desarrollo de módulos de pre-registro y pagos con Clip y conciliación mediante Webhooks",
-                    "Implementación de control de acceso con QR y NFC",
-                    "Desarrollo de módulos de check-in online/offline con Electron.js",
-                    "Creación de dashboards con JavaScript, React.js y Google Charts",
-                    "Diseño de REST APIs seguras con JavaScript, TypeScript, TypeORM, JWT y RSA/RS256",
-                    "Desarrollo de sistemas de gestión de paquetería (TMS) y módulos POS con JavaScript, React.js y Electron.js",
-                    "Remediación de vulnerabilidades detectadas por herramientas como Tenable, de hasta un 100%",
-                    "Implementación de políticas de seguridad: CSP, Permissions-Policy, Cache-Control, etc",
-                    "Gestión de repositorios con Git, GitHub y despliegue en Azure"
+                    {
+                        "title": "Eventos Empresariales a nivel nacional",
+                        "type": "item",
+                        "description": "",
+                        "link": "/portfolio/events/"
+                    },
+                    {
+                        "title": "E-Commerce (menudeo / mayoreo) a la medida y procesamiento de pagos",
+                        "type": "item",
+                        "description": "",
+                        "link": "/portfolio/ecommerce/"
+                    },
+                    {
+                        "title": "Automaticación de Procesos y Facturación en linea",
+                        "type": "item",
+                        "description": "",
+                        "link": "/portfolio/billing-and-automation/"
+                    },
+                    {
+                        "title": "Migración gradual de ASP Classic (Legacy) a Node.js",
+                        "type": "item",
+                        "description": "",
+                        "link": "/portfolio/asp-classic-to-node/"
+                    }
                 ]
             },
             {
@@ -50,11 +61,14 @@
                 "mode": "Remoto",
                 "role": "Backend Developer",
                 "duration": "Feb 2022 - May 2022",
-                "description": "Desarrollador backend en una aplicación móvil de radio digital, encargado de implementar APIs para transmisión en vivo, publicación de noticias y gestión de anuncios publicitarios.",
+                "description": "En Grupo Crea me desempeñé como **Backend Developer** y **consultor tecnológico**, liderando la construcción de una **aplicación móvil** de **streaming** en tiempo real, integrando servicios de transmisión, backend escalable y soluciones digitales orientadas a contenido y monetización, alineando tecnología, producto y estrategia de marca para posicionar la plataforma en el entorno digital.",
                 "details": [
-                    "Diseño e implementación de REST APIs para live streaming, news publishing y advertising management",
-                    "Desarrollo backend utilizando JavaScript, TypeScript, Node.js y Express",
-                    "Despliegue, operación y mantenimiento de servicios en DigitalOcean, Git y GitHub"
+                    {
+                        "title": "Transformación digital de radio por internet",
+                        "type": "item",
+                        "description": "",
+                        "link": "/portfolio/digital-radio/"
+                    }
                 ]
             },
             {
