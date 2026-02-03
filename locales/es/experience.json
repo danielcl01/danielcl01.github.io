@@ -7,7 +7,7 @@
                 "mode": "Remoto",
                 "role": "Software Engineer | Backend Developer",
                 "duration": "Ago 2024 - Oct 2025",
-                "description": "En **DaCodes** me desempeñé como **Software Engineer** / **Backend Developer** en un entorno 100% remoto, especializado en la migración de arquitecturas **monolíticas** a **microservicios** escalables, desarrollando **APIs RESTful** de alto rendimiento, participando activamente en pipelines de **CI/CD**, aseguramiento de calidad, **remediación de vulnerabilidades** y fortalecimiento continuo de seguridad, arquitectura y estabilidad operativa, siempre alineado a objetivos estratégicos del negocio.",
+                "description": "En **DaCodes** me desempeñé como **Software Engineer** / **Backend Developer** en un entorno 100% remoto, especializado en la migración de arquitecturas **monolíticas** a **microservicios** escalables, desarrollando **RESTful APIs** de alto rendimiento, participando activamente en pipelines de **CI/CD**, aseguramiento de calidad, **remediación de vulnerabilidades** y fortalecimiento continuo de seguridad, arquitectura y estabilidad operativa, siempre alineado a objetivos estratégicos del negocio.",
                 "details": [
                     {
                         "title": "Migración de Monolitos a Microservicios",
@@ -19,7 +19,7 @@
                         "title": "RESTful APIs con NestJS para aplicaciones móviles internacionales",
                         "type": "item",
                         "description": "",
-                        "link": "/portfolio/restful-apis-whith-nestjs/"
+                        "link": "/portfolio/restful-apis-with-nestjs/"
                     }
                 ]
             },
@@ -28,7 +28,7 @@
                 "mode": "On-site",
                 "role": "Backend Developer | Team Leadership & Mentorship",
                 "duration": "Jun 2019 - Jun 2024",
-                "description": "Durante más de cuatro años participé en la modernización tecnológica de la empresa, comenzando como **Fullstack Developer** y consolidando mi perfil como **Backend Developer y Staff Técnico / Operativo**. Trabajé en proyectos de alto impacto en e-commerce, fintech, sector gasolinero y eventos empresariales, desarrollando **aplicaciones web en la nube** y **APIs RESTful de alta disponibilidad**. Además, **lideré y mentoré equipos técnicos**, impulsando automatización, integración de sistemas complejos y mejoras continuas en **seguridad, calidad, rendimiento y escalabilidad**, siempre alineado a objetivos estratégicos de negocio.",
+                "description": "Durante más de cuatro años participé en la modernización tecnológica de la empresa, comenzando como **Fullstack Developer** y consolidando mi perfil como **Backend Developer y Staff Técnico / Operativo**. Trabajé en proyectos de alto impacto en e-commerce, fintech, sector gasolinero y eventos empresariales, desarrollando **aplicaciones web en la nube** y **RESTful APIs de alta disponibilidad**. Además, **lideré y mentoré equipos técnicos**, impulsando automatización, integración de sistemas complejos y mejoras continuas en **seguridad, calidad, rendimiento y escalabilidad**, siempre alineado a objetivos estratégicos de negocio.",
                 "details": [
                     {
                         "title": "Eventos Empresariales a nivel nacional",
@@ -302,7 +302,7 @@
             },
             {
                 "title": "RESTful APIs para aplicaciones moviles",
-                "link": "/portfolio/restful-apis-whith-nestjs/"
+                "link": "/portfolio/restful-apis-with-nestjs/"
             },
             {
                 "title": "Eventos empresariales a nivel nacional",

@@ -19,7 +19,7 @@
                         "title": "RESTful APIs with NestJS for International Mobile Applications",
                         "type": "item",
                         "description": "",
-                        "link": "/portfolio/restful-apis-whith-nestjs/"
+                        "link": "/portfolio/restful-apis-with-nestjs/"
                     }
                 ]
             },
@@ -189,7 +189,7 @@
         "title": "Projects Involved In",
         "skills": [
             { "title": "Monolith to Microservices Migration", "link": "/portfolio/monolito-to-microservices" },
-            { "title": "RESTful APIs for Mobile Applications", "link": "/portfolio/restful-apis-whith-nestjs/" },
+            { "title": "RESTful APIs for Mobile Applications", "link": "/portfolio/restful-apis-with-nestjs/" },
             { "title": "National Corporate Events", "link": "/portfolio/events" },
             { "title": "Custom E-Commerce (Retail / Wholesale)", "link": "/portfolio/ecommerce/" },
             { "title": "Process Automation", "link": "/portfolio/billing-and-automation/" },
