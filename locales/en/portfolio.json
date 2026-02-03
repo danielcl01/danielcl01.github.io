@@ -1,0 +1,617 @@
+{
+    "title": "Portfolio",
+    "projects": {
+        "title": "Portfolio",
+        "topics": [
+            {
+                "title": "Monolith to Microservices Migration: Scaling a high-impact national platform",
+                "date": "2024 - 2025",
+                "company": "DaCodes",
+                "link": "/portfolio/monolito-to-microservices",
+                "image": [
+                    "/portfolio/microservices/microservices.png"
+                ],
+                "description": "Scaling and optimization of a high-impact national corporate and social project within the real estate sector.",
+                "detail": [
+                    {
+                        "title": "About my experience",
+                        "description": [
+                            "One of the most relevant projects I participated in was a national-level platform with high business and social impact within the **real estate sector**. The main objective was to transform a monolithic platform into a modern architecture based on **Microservices**, capable of scaling, maintaining, and evolving sustainably."
+                        ]
+                    },
+                    {
+                        "description": [
+                            "My role focused on the design and development of multiple **RESTful services**, utilizing design patterns, **SOLID** principles, and a **DevOps-oriented** architecture with **CI/CD**:"
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "Tech stack used for development:\n- **Node.js** with **TypeScript**\n- Web server with **Express.js**\n- **Websockets** and **Resumables** \n- **Jest** for unit testing\n- **SonarQube** for code quality\n- Repository management with **Git** and **GitLab**",
+                            "Each microservice was developed under an approach of:\n- Clean code.\n- High cohesion and low coupling.\n- Clear **documentation**.\n- Automated testing.\n- Continuous integration and deployment."
+                        ]
+                    },
+                    {
+                        "description": "Additionally, I collaborated on the development of new frontend modules using **React.js** and **TypeScript**, complementing the microservices ecosystem with modern and robust interfaces, along with the implementation of **E2E** tests with **Cypress**."
+                    },
+                    {
+                        "title": "Security and quality: vulnerability remediation in production environments",
+                        "description": [
+                            "One of my main technical contributions was the **addressing and remediation of vulnerabilities** detected in both backend and frontend. Thanks to previous experiences, I actively participated in correcting **100% of the vulnerabilities** associated with the microservices and web modules under my responsibility.",
+                            "This work included:\n- Security analysis with **SonarQube** and **Fortify**.\n- Refactoring of vulnerable code.\n- Improvement of quality standards.\n- Post-fix validation.",
+                            "This approach significantly raised software quality, reduced operational risks, and guaranteed the technical viability of the project in production."
+                        ]
+                    },
+                    {
+                        "title": "Software Engineering in practice: processes, automation, and deployment",
+                        "description": [
+                            "Beyond functional development, I actively participated in the entire software lifecycle:\n- Design of flowcharts and documentation of service architecture.\n- Implementation of pipelines and **CI/CD** deployment.\n- Creation of technical documentation for **microservices**.\n- Design and execution of functional test matrices.\n- Automation of unit and end-to-end tests.",
+                            "This comprehensive approach allowed me not only to write code but also to contribute to the long-term stability, scalability, and maintainability of the system."
+                        ]
+                    }
+                ],
+                "techskills": {
+                    "title": "Tech Skills",
+                    "skills": [
+                        {
+                            "title": "Backend & CI/CD",
+                            "icons": [
+                                { "image": "nodejs", "title": "Node.js" },
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "express", "title": "Express.js" },
+                                { "image": "nginx", "title": "Nginx" },
+                                { "image": "git", "title": "Git" },
+                                { "image": "github", "title": "GitHub" },
+                                { "image": "ubuntu", "title": "Ubuntu" },
+                                { "image": "linux", "title": "Linux" },
+                                { "image": "aws", "title": "AWS" },
+                                { "image": "jenkins", "title": "Jenkins" }
+                            ]
+                        },
+                        {
+                            "title": "Frontend Developer",
+                            "icons": [
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "html", "title": "HTML" },
+                                { "image": "react", "title": "React" },
+                                { "image": "redux", "title": "Redux" }
+                            ]
+                        },
+                        {
+                            "title": "Quality & Security",
+                            "icons": [
+                                { "image": "fortify-other", "title": "Fortify" },
+                                { "image": "sonarqube-other", "title": "Sonarqube" },
+                                { "image": "jest", "title": "Jest" },
+                                { "image": "cypress", "title": "Cypress" }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "RESTful APIs with NestJS for Entertainment and Event Mobile Applications",
+                "date": "2024 - 2025",
+                "company": "DaCodes",
+                "link": "/portfolio/restful-apis-whith-nestjs",
+                "image": [
+                    "/portfolio/events/music-event-2.png"
+                ],
+                "description": "Development for an international entertainment client, focused on musical events, online ticket sales, and payment processing.",
+                "detail": [
+                    {
+                        "title": "About my experience",
+                        "description": [
+                            "In addition to microservices migration projects, I had the opportunity to collaborate with an **international client** in the entertainment sector, focused on **musical events**, **online ticketing**, and **payment processing**.",
+                            "In this project, I participated as a **Backend Developer** in building **RESTful API** endpoints for consumption by a mobile application, under a modular backend architecture designed to support high concurrency and critical payment flows."
+                        ]
+                    },
+                    {
+                        "title": "Modular Architecture with NestJS and Payment Processing"
+                    },
+                    {
+                        "description": [
+                            "My main technical contributions included:\n- Endpoint development within a modular architecture with **NestJS**.\n- Optimization and refactoring of payment flows using **Stripe**.\n- Implementation of background processes using **CRON Jobs** for payment status updates.\n- Development of **group payment** functionalities.\n- Data management with **PostgreSQL**."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "Continuous deployment via:\n- **Git** for version control.\n- **GitLab** for repository management.\n- **GitFlow** as a continuous workflow.\n- **Jenkins** for CI/CD automation.\n- **Nginx** as a reverse proxy and load balancer.\n- **AWS EC2, EBS, S3, and ELB** for production.",
+                            "Backend in **NestJS**, which allowed for:\n- Modularizing the system.\n- Clearly defining domain responsibilities.\n- Improving scalability and maintainability."
+                        ]
+                    }
+                ],
+                "techskills": {
+                    "title": "Tech Skills",
+                    "skills": [
+                        {
+                            "title": "Backend & CI/CD",
+                            "icons": [
+                                { "image": "nodejs", "title": "Node.js" },
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "nestjs", "title": "NestJS" },
+                                { "image": "nginx", "title": "Nginx" },
+                                { "image": "git", "title": "Git" },
+                                { "image": "github", "title": "GitHub" },
+                                { "image": "ubuntu", "title": "Ubuntu" },
+                                { "image": "linux", "title": "Linux" },
+                                { "image": "aws", "title": "AWS" },
+                                { "image": "jenkins", "title": "Jenkins" }
+                            ]
+                        },
+                        {
+                            "title": "Quality & Security",
+                            "icons": [
+                                { "image": "fortify-other", "title": "Fortify" },
+                                { "image": "sonarqube-other", "title": "Sonarqube" },
+                                { "image": "jest", "title": "Jest" }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Backend Developer and Technical Staff for National Corporate Events",
+                "date": "2022 - 2024",
+                "company": "Prointernet",
+                "link": "/portfolio/events",
+                "image": [
+                    "/portfolio/events/event-4.jpg",
+                    "/portfolio/events/event-2.png",
+                    "/portfolio/events/event-6.jpg",
+                    "/portfolio/events/event-12.jpg",
+                    "/portfolio/events/event-3.jpg",
+                    "/portfolio/events/event-5.jpg"
+                ],
+                "description": "Creation of a gradual, scalable, and robust digital ecosystem: Online ticket purchasing, Clip and PayPal payments, registration for attendees, exhibitors, sponsors, and speakers.",
+                "detail": [
+                    {
+                        "title": "About my experience",
+                        "description": [
+                            "**Corporate Events** represented a distinct technical challenge: building systems that functioned reliably both in the cloud and on dedicated physical servers, with variable infrastructure and high concurrency.",
+                            "Between **2022** and **2024**, I participated as a **Backend Developer**, **Technical Staff**, and **Operational Support** in the organization and execution of national-level corporate events within different business areas such as oil & gas, brand creation, and chambers of commerce:"
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "Participation in various events\n- Tamaulipas (2020)\n- Mérida (2022)\n- Puebla (2022)\n- Acapulco (2023)\n- Oaxaca (2023)\n- Tamaulipas (2023)\n- Cancún (2024)",
+                            "Ecosystem Architecture\n- Backend with **Node.js**, **Express.js**, and **TypeScript**.\n- Modular **RESTful APIs**.\n- Web **SPA** applications with **React.js**.\n- Desktop applications with **Electron.js** for offline operation.\n- Databases in **SQL Server**, with **batch** and differential synchronization."
+                        ]
+                    },
+                    {
+                        "description": [
+                            "My responsibility was to contribute to the development of multiple **Web Services**, **RESTful APIs**, and provide technical leadership to meet client objectives **before**, **during**, and **after** each event.",
+                            "Together with the development team, we built a gradual, scalable, and robust digital ecosystem integrating: **Databases**, **Microservices**, **Web Applications**, and **Mobile Applications**."
+                        ]
+                    },
+                    {
+                        "title": "Pre-event: Outreach, Sales, and Logistics",
+                        "description": "During this stage, we contributed to the development of platforms that supported outreach, registration, and event management, capturing over 2,000 registrations per event among **attendees**, **exhibitors**, **sponsors**, and **speakers**."
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "**Pre-registration Platform (SPA with React.js)**\n- **Online ticket** purchasing.\n- **Payment** integration with **Clip** and **PayPal**.\n- Individual and group attendee registration.\n- Hotel and room registration.\n- Automatic **QR** code generation for access.\n- Email delivery with confirmations and QR codes.\n- Private registration for **exhibitors**, **sponsors**, and **speakers**.",
+                            "**Administrative and Accounting Management System Platform**\n- Data analysis dashboards.\n- Registration and sales metrics.\n- Pricing and event configuration.\n- Special attendee registration.\n- Payment reconciliation module using **Clip Webhooks**.\n- Report generation from **SQL Server** to **Excel**.\n- Attendee visualization and tax data for subsequent invoicing."
+                        ]
+                    },
+                    {
+                        "title": "During the event: Real-time Operation",
+                        "description": "During event days, we focused on ensuring the correct functionality of all systems, providing continuous technical support and ensuring client objectives were met."
+                    },
+                    {
+                        "description": [
+                            "**Cloud, Offline Server, and Registration Desk**\n- Development of an offline check-in system with **React.js** and **Electron.js**.\n- Process automation with **TypeScript**, **JavaScript**, **Cron Jobs**, **MSSQL Bulk**, and **SQL Server**.\n- **NFC** card programming and **QR Code** generation.\n- Real-time registration search and visualization.\n- **QR** and **NFC** scanning for access control.\n- Integration of **kiosks** for on-site ticket purchasing."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "**Technical and Operational Staff**\n- **Staff training** for third parties.\n- Technical accompaniment during the event.\n- Real-time incident resolution.\n- **Data analysis** and **report** generation.\n- Attendee support.\n- Training for **exhibitors** and **sponsors** on using mobile apps for **lead generation**.",
+                            "**RESTful APIs for Mobile Applications**\n- Implementation of RESTful APIs with Node.js, Express, and TypeScript.\n- Networking modules between attendees.\n- Gamification dynamics for prize acquisition.\n- Attendance control for conferences."
+                        ]
+                    },
+                    {
+                        "title": "After the event: Wrap-up and Continuous Improvement",
+                        "description": "At the end of each event, we provided technical support to the organizational committee, assisting in:\n\n- Delivering reports from **SQL Server** on **registrations** and **sales**.\n- Closing registrations.\n- Service decoupling.\n- **Inventorying** and reviewing **technical equipment**.\n- Feedback sessions.\n- Planning continuous improvements for future events."
+                    }
+                ],
+                "techskills": {
+                    "title": "Tech Skills",
+                    "skills": [
+                        {
+                            "title": "Backend Developer",
+                            "icons": [
+                                { "image": "nodejs", "title": "Node.js" },
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "express", "title": "Express.js" },
+                                { "image": "nginx", "title": "Nginx" },
+                                { "image": "git", "title": "Git" },
+                                { "image": "github", "title": "GitHub" },
+                                { "image": "azure", "title": "Azure" },
+                                { "image": "ms-other", "title": "Microsoft" },
+                                { "image": "ubuntu", "title": "Ubuntu" },
+                                { "image": "linux", "title": "Linux" }
+                            ]
+                        },
+                        {
+                            "title": "Web & Desktop Registration",
+                            "icons": [
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "html", "title": "HTML" },
+                                { "image": "css", "title": "CSS" },
+                                { "image": "handlebars_js-other", "title": "Handlebars" },
+                                { "image": "react", "title": "React" },
+                                { "image": "electron", "title": "Electron" },
+                                { "image": "redux", "title": "Redux" }
+                            ]
+                        },
+                        {
+                            "title": "Databases",
+                            "icons": [
+                                { "image": "mssql-other", "title": "SQL Server" },
+                                { "image": "sql_azure-other", "title": "Azure SQL" }
+                            ]
+                        },
+                        {
+                            "title": "Payment Processing",
+                            "icons": [
+                                "clip-other",
+                                "paypal2-other"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "E-Commerce, Payment Processing, and Enterprise Synchronization",
+                "date": "2021 - 2023",
+                "company": "Prointernet",
+                "link": "/portfolio/ecommerce",
+                "image": "/portfolio/ecommerce.png",
+                "description": "Development of a custom E-Commerce platform for one of the most prominent national business groups, optimizing retail and wholesale operations.",
+                "detail": [
+                    {
+                        "title": "About my experience",
+                        "description": "In **2021**, I began collaborating with one of the company's most important clients, a national organization in the grocery commercial sector with retail and wholesale sales. This project marked a key stage in my consolidation as a backend developer specializing in **e-commerce** and **payment processing**."
+                    },
+                    {
+                        "title": "Retail E-Commerce",
+                        "description": "My first **E-Commerce** project was the complete custom development of an online grocery store for retail sales. This project involved transforming a 100% physical operation into a hybrid **physical-digital** one, where one of the most significant challenges was integration with the client's **ERP** and points of sale across **6 national Distribution Centers (CEDIS)**."
+                    },
+                    {
+                        "description": [
+                            "Which required:\n- Synchronization with the client's internal systems.\n- Design of purchase flows, validation, and stock control.\n- Online sales process with **cash on delivery**.\n- Sending purchase notifications to each **CEDIS** and customers.\n- Coordination with the client's technical and operational teams."
+                        ]
+                    },
+                    {
+                        "title": "Wholesale E-Commerce",
+                        "description": "Subsequently, we developed a second independent **e-commerce** for one of the client's most important business lines: **wholesale sales**. Although it shared certain components with the **retail system**, this project required specific features:"
+                    },
+                    {
+                        "description": "Added value:\n- Distinct business logic for sales closures.\n- **Online payment processing**.\n- Integration of **BBVA** and **Banorte** payment gateways.\n- **Certification** and **audits** by the banks.\n- Stability and performance validation.\n- Safe retry handling and failure recovery."
+                    },
+                    {
+                        "title": "Automation and Bulk Data Loading",
+                        "description": [
+                            "To keep information synchronized in real-time between the client's **ERP** and the **E-Commerce** platforms, I designed and implemented automated bulk data loading processes. One of the most relevant technical challenges was synchronizing large volumes of data between both systems under time and availability constraints.",
+                            "Since the **ERP** had limitations exposing real-time data, we designed optimized batch processes capable of processing more than **80,000 records** in less than 30 seconds, periodically and securely."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "**Batch** processes implemented with:\n- **Node.js** with **Express.js**\n- **JavaScript** and **TypeScript**\n- **SQL Server** with **MSSQL Bulk**\n- Background **Cron Jobs**\n- Use of **encryption algorithms** to protect sensitive information.\n- Design of data pipelines with **validation**, **transformation**, and **persistence**.",
+                            "Technical results:\n- **Auto-scaled batch** process\n- Processing of **+80,000 records** in less than 30 seconds.\n- High availability.\n- Data integrity.\n- Resilience against partial failures."
+                        ]
+                    },
+                    {
+                        "description": "This allowed the **e-commerce** platforms to reflect updated information without affecting system performance or stability."
+                    },
+                    {
+                        "title": "Vulnerability Management with Tenable",
+                        "description": [
+                            "As part of the e-commerce systems' maturation, security analysis tools like **Tenable** were integrated to identify system vulnerabilities.",
+                            "My responsibility was to:\n\n- Analyze vulnerability reports.\n- Prioritize risks.\n- Implement solutions at the **Backend** and **Frontend** levels.\n- Validate fixes.",
+                            "Through this process, **up to 90% of detected vulnerabilities** were resolved, significantly strengthening the security posture of the developed platforms."
+                        ]
+                    }
+                ],
+                "techskills": {
+                    "title": "Tech Skills",
+                    "skills": [
+                        {
+                            "title": "Backend Developer",
+                            "icons": [
+                                { "image": "nodejs", "title": "Node.js" },
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "express", "title": "Express.js" },
+                                { "image": "nginx", "title": "Nginx" },
+                                { "image": "git", "title": "Git" },
+                                { "image": "github", "title": "GitHub" },
+                                { "image": "azure", "title": "Azure" },
+                                { "image": "ms-other", "title": "Microsoft" },
+                                { "image": "ubuntu", "title": "Ubuntu" },
+                                { "image": "linux", "title": "Linux" }
+                            ]
+                        },
+                        {
+                            "title": "Frontend Developer",
+                            "icons": [
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "html", "title": "HTML" },
+                                { "image": "css", "title": "CSS" },
+                                { "image": "handlebars_js-other", "title": "Handlebars.js" }
+                            ]
+                        },
+                        {
+                            "title": "Databases",
+                            "icons": [
+                                { "image": "mssql-other", "title": "SQL Server" },
+                                { "image": "sql_azure-other", "title": "Azure SQL" }
+                            ]
+                        },
+                        {
+                            "title": "Payment Processing",
+                            "icons": [
+                                "bbva-other",
+                                "banorte-other"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Digital Transformation for Internet Radio",
+                "date": "2021 - 2022",
+                "company": "Grupo Crea",
+                "link": "/portfolio/digital-radio",
+                "image": [
+                    "/portfolio/digital-radio/gpocrea.png"
+                ],
+                "description": "Development for an international entertainment client, focused on real-time streaming and digital presence.",
+                "detail": [
+                    {
+                        "title": "About my experience",
+                        "description": [
+                            "My collaboration with **Grupo Crea**, an internet digital radio station, represented one of my first projects with direct impact on transforming a traditional media business into a modern, mobile, and scalable model.",
+                            "In this project, I participated as a **Backend Developer** and **Requirements Manager**, working alongside an independent development team and collaborating closely with the client to understand their needs, translate them into technical solutions, and accompany them throughout the technology adoption process."
+                        ]
+                    },
+                    {
+                        "title": "From traditional radio to digital streaming",
+                        "description": [
+                            "The main objective was to build a **mobile application** that allowed:\n- Streaming radio programs in real-time.\n- Generating digital content.\n- Creating advertising campaigns.\n- Strengthening brand presence in the digital environment.",
+                            "One of the biggest challenges was **integrating the station's local infrastructure** with digital streaming services, ensuring the live transmission could flow stably from their physical station to mobile devices in real-time.",
+                            "This project involved not just software development but also **integration engineering**, business understanding, and technical guidance for the client."
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "**Infrastructure & Operations**\n- **DigitalOcean** as a virtual server.\n- Third-party streaming server integrated into the app.\n- Version control with **Git**, **GitHub**, and **Git Workflow**.",
+                            "**Backend Architecture**\n- **Node.js**\n- **JavaScript** and **TypeScript**\n- Database in **MySQL**\n- **Express.js** as the backend framework."
+                        ]
+                    },
+                    {
+                        "description": "This project marked a turning point for the company, allowing it to evolve from a limited digital radio station into a **modern multimedia platform**."
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "The application enabled **Grupo Crea** to:\n- Stream their programs in real-time via mobile devices.\n- Position their brand in the digital ecosystem.",
+                            "Create advertising campaigns through:\n- **Banners**.\n- **Promotional content**.\n- A **news blog** integrated into the application."
+                        ]
+                    },
+                    {
+                        "title": "Delivery, Support, and Adoption",
+                        "description": [
+                            "The project was developed and delivered within 3 months, meeting all functional and technical requirements. Additionally, I provided support to the client during the process of:",
+                            "Project presentation.\n- Feature delivery.\n- **Hybrid integration** between their digital station and streaming transmission.\n- **Operational adoption** of the new platform."
+                        ]
+                    },
+                    {
+                        "title": "My Professional Contribution",
+                        "description": [
+                            "Beyond technical development, this project strengthened my profile as a:",
+                            "- **Translator** between business and technology.\n- **Solution Architect** for practical real-world client needs.\n- Result-oriented professional focused on deadlines and **business value**.\n- Developer with sensitivity toward product, end-user, and branding."
+                        ]
+                    }
+                ],
+                "techskills": {
+                    "title": "Tech Skills",
+                    "skills": [
+                        {
+                            "title": "Backend Developer",
+                            "icons": [
+                                { "image": "nodejs", "title": "Node.js" },
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "express", "title": "Express.js" },
+                                { "image": "nginx", "title": "Nginx" },
+                                { "image": "git", "title": "Git" },
+                                { "image": "github", "title": "GitHub" },
+                                { "image": "azure", "title": "Azure" },
+                                { "image": "ubuntu", "title": "Ubuntu" },
+                                { "image": "linux", "title": "Linux" }
+                            ]
+                        },
+                        {
+                            "title": "Content Management (CMS)",
+                            "icons": [
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "html", "title": "HTML" },
+                                { "image": "css", "title": "CSS" },
+                                { "image": "handlebars_js-other", "title": "Handlebars.js" },
+                                { "image": "react", "title": "React" },
+                                { "image": "electron", "title": "Electron" },
+                                { "image": "redux", "title": "Redux" }
+                            ]
+                        },
+                        {
+                            "title": "Infra. & Databases",
+                            "icons": [
+                                { "image": "mysql", "title": "MySQL" },
+                                { "image": "digitalocean-other", "title": "DigitalOcean" }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Process Automation and Electronic Invoicing",
+                "date": "2020 - 2021",
+                "company": "Prointernet",
+                "link": "/portfolio/billing-and-automation",
+                "image": "/portfolio/biling-automation.png",
+                "description": "Construction of a national platform for the oil and gas sector, automating critical processes and implementing an electronic invoicing solution.",
+                "detail": [
+                    {
+                        "title": "Design of critical regulated services",
+                        "description": "In 2020, I assumed technical responsibility for a national project for the **oil and gas sector**, whose objective was to digitalize and automate administrative, accounting, and operational processes that until then were performed manually or semi-automatically."
+                    },
+                    {
+                        "description": "The system was designed around four main modules:\n\n1. **Purchase Order Generation Module**\n2. **Administrative Management Module**\n3. **Accounting Module**\n4. **Operations Module**"
+                    },
+                    {
+                        "description": "In addition to participating in development, I assumed a **technical leadership** role, coordinating the team and following up on functional requirements. My responsibilities included:\n\n- Requirements gathering and analysis.\n- Design of **UML** and **ERD** diagrams.\n- System architecture planning.\n- Development supervision and quality control."
+                    },
+                    {
+                        "title": "Electronic invoicing as the main challenge",
+                        "description": "My primary technical contribution focused on the administrative and accounting modules, specifically the implementation of the electronic invoicing service. This was one of the project's biggest challenges, as it involved:\n\n- Deep research into **SAT** (tax authority) fiscal processes.\n- Analysis of Authorized Certification Providers (**PAC**).\n- Selection of the most suitable provider based on cost, availability, support, and scalability.\n- Complete documentation of fiscal and technical processes.\n- Invoicing service implementation using: (**Node.js**, **JavaScript**, **TS**, **Express**, **SQL Server**, **Azure**)"
+                    },
+                    {
+                        "title": "Frontend Development",
+                        "description": "As a Fullstack Developer, I also actively participated in the development of several frontend submodules using **React.js** and **Redux**, implementing **SPA** interfaces oriented toward user experience with clear and consistent flows."
+                    },
+                    {
+                        "title": "Focus on real-world operation",
+                        "description": [
+                            "Given the client's high level of operational complexity, the system was developed in parallel with their existing infrastructure. This involved:\n- Working closely with the client.\n- Continuous validation of each requirement.\n- Planning migration strategies.\n- Controlled execution of production deployments.",
+                            "The result was a system that not only automated critical processes but also allowed the client to operate more efficiently, securely, and with full traceability."
+                        ]
+                    }
+                ],
+                "techskills": {
+                    "title": "Tech Skills",
+                    "skills": [
+                        {
+                            "title": "Fullstack developer",
+                            "icons": [
+                                { "image": "nodejs", "title": "Node.js" },
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "express", "title": "Express.js" },
+                                { "image": "nginx", "title": "Nginx" },
+                                { "image": "git", "title": "Git" },
+                                { "image": "github", "title": "GitHub" },
+                                { "image": "azure", "title": "Azure" },
+                                { "image": "ms-other", "title": "Microsoft" },
+                                { "image": "react", "title": "React" },
+                                { "image": "html", "title": "HTML" },
+                                { "image": "css", "title": "CSS" },
+                                { "image": "sass", "title": "SASS" }
+                            ]
+                        },
+                        {
+                            "title": "Databases",
+                            "icons": [
+                                { "image": "mssql-other", "title": "SQL Server" },
+                                { "image": "sql_azure-other", "title": "Azure SQL" }
+                            ]
+                        },
+                        {
+                            "title": "Electronic Invoicing (CFDI 3.3 & 4.0)",
+                            "icons": [
+                                "sat-other"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Migration from ASP Classic (Legacy) to Node.js",
+                "date": "2019 - 2022",
+                "company": "Prointernet",
+                "link": "/portfolio/asp-classic-to-node",
+                "image": [
+                    "/portfolio/asp-to-nodejs.png"
+                ],
+                "description": "Together with a development team, I led the modernization of Prointernet's critical infrastructure to replace obsolete ASP Classic systems.",
+                "detail": [
+                    {
+                        "title": "Critical and Emerging Backend Shift",
+                        "imageAlignment": "left",
+                        "description": [
+                            "My first major responsibility at **Prointernet** arose from a critical company need: its backend infrastructure based on **ASP Classic** suffered from severe obsolescence, security, and scalability issues. These risks threatened the stability of existing services and the company's ability to develop new digital products.",
+                            "To address this situation, a dedicated team was formed, of which I was a part, with the mission of designing a technological modernization strategy. We created a testing lab where we researched, evaluated, and compared different backend ecosystems:"
+                        ]
+                    },
+                    {
+                        "is_col": true,
+                        "description": [
+                            "<h1 class=\"text-base md:text-md font-semibold leading-tight text-gray-900 mb-2\"> Activities performed:</h1>\n\n- Comparative analysis of frameworks and architectures.\n- Development of functional prototypes.\n- Performance, security, and scalability testing.\n- Evaluation of infrastructure and maintenance costs.\n- Compatibility with **RESTful** and **Event-Driven** architectures.",
+                            "<h1 class=\"text-base md:text-md font-semibold leading-tight text-gray-900 mb-2\"> Frameworks analyzed and proposed:</h1>\n\n- **Laravel (PHP)** for monolithic MVC.\n- **Spring Boot (Java)** for robust enterprise architectures.\n- **.NET** for corporate environments.\n- **Node.js** for microservices and APIs focused on events and asynchrony."
+                        ]
+                    },
+                    {
+                        "description": "As a result of these tests and considering the company's business model, it was decided to adopt **Node.js** as the primary backend. From there, we initiated a progressive process of migrating legacy **ASP Classic** systems to **Node.js**, always maintaining active operation without affecting end users."
+                    },
+                    {
+                        "description": [
+                            "Between 2019 and 2022, I worked directly on the migration and development of projects related to:",
+                            "- **E-Commerce** platforms.\n- Corporate **Landing pages**.\n- **CMS** systems.\n- Administrative management systems.\n- **Web applications** for psychometric evaluations.\n- Specialized software for the oil and gas sector."
+                        ]
+                    },
+                    {
+                        "description": [
+                            "This process involved not just rewriting code but redesigning architectures, improving data models, optimizing business flows, and establishing new development practices. Concurrently, the company underwent significant organizational changes. We evolved alongside the company by implementing:",
+                            "- New development processes.\n- Best practices in operational management.\n- Agile methodologies such as **Scrum**.\n- Onboarding of new technical team members.\n- Exposure of **RESTful APIs** to decouple frontend and backend.\n- Rewriting critical modules prioritizing business impact and technical risk.",
+                            "This stage laid the technical and cultural foundations that allowed for scaling more complex projects in the following years."
+                        ]
+                    }
+                ],
+                "techskills": {
+                    "title": "Tech Skills",
+                    "skills": [
+                        {
+                            "title": "Fullstack Developer",
+                            "icons": [
+                                { "image": "nodejs", "title": "Node.js" },
+                                { "image": "js", "title": "JavaScript" },
+                                { "image": "typescript", "title": "TypeScript" },
+                                { "image": "express", "title": "Express.js" },
+                                { "image": "nginx", "title": "Nginx" },
+                                { "image": "git", "title": "Git" },
+                                { "image": "github", "title": "GitHub" },
+                                { "image": "azure", "title": "Azure" },
+                                { "image": "ms-other", "title": "Microsoft" },
+                                { "image": "react", "title": "React" },
+                                { "image": "html", "title": "HTML" },
+                                { "image": "css", "title": "CSS" },
+                                { "image": "sass", "title": "SASS" }
+                            ]
+                        },
+                        {
+                            "title": "Databases",
+                            "icons": [
+                                { "image": "mssql-other", "title": "SQL Server" },
+                                { "image": "sql_azure-other", "title": "Azure SQL" }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

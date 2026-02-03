@@ -10,6 +10,10 @@
         "skills": "Habilidades",
         "projects": "Proyectos",
         "next": "Próximo",
-        "previous": "Anterior"
+        "previous": "Anterior",
+        "experience": {
+            "projects": "Ver mas sobre:"
+        },
+        "download": "Descargar CV"
     }
 }

@@ -1,20 +1,20 @@
 {
     "about": {
         "title": "Sobre mi",
-        "description": "Software Engineer con 6+ años de experiencia en desarrollo backend y arquitecturas de microservicios. Especializado en Node.js, TypeScript, Express y NestJS, con fuerte enfoque en sistemas de pagos, billing, fintech y plataformas de alto tráfico. Experiencia trabajando en entornos cloud (AWS, DigitalOcean), CI/CD y equipos remotos multidisciplinarios."
+        "description": "Software Engineer / Backend Developer con más de **6 años de experiencia** en el desarrollo y escalamiento de **RESTful APIs de alta disponibilidad**, **microservicios** y **aplicaciones web en la nube** para diversos sectores como e-commerce, gasolinero, fintech y eventos empresariales. He participado en **migraciones de monolito a microservicios**, automatización de procesos y construcción de plataformas críticas de misión empresarial.\n\nCuento con sólida experiencia en **Node.js, TypeScript, Express, NestJS, SQL, AWS y CI/CD**, así como en **Java y Spring Boot**, con alta **capacidad de adaptación a nuevos stacks y arquitecturas backend**. He **liderado y mentorado equipos técnicos**, contribuyendo activamente a la mejora continua de calidad, seguridad, rendimiento y escalabilidad."
     },
     "whatido": {
         "title": "¿Que hago?",
         "topics": [
             {
-                "title": "Desarrollo Fullstack",
+                "title": "Desarrollo de Software",
                 "icon": "dev",
-                "description": "Diseño, desarrollo, pruebas y mantenimiento de aplicaciones web escalables, seguras y orientadas a resultados."
+                "description": "Diseño, desarrollo, pruebas y mantenimiento de aplicaciones web y servicios escalables, seguros y orientados a resultados."
             },
             {
                 "title": "Automatización de Procesos",
                 "icon": "auto",
-                "description": "Optimización de flujos operativos mediante soluciones automatizadas con Node.js, Java y tecnologías modernas."
+                "description": "Optimización de flujos operativos mediante soluciones automatizadas."
             },
             {
                 "title": "Computación en la Nube",

@@ -1,63 +1,63 @@
 {
     "education": {
-        "title": "Educación",
+        "title": "Education",
         "institute": [
             {
                 "name": "Instituto Tecnológico de Ciudad Madero / TecNM",
-                "mode": "Presencial",
-                "role": "Lic. Ingeniería en Sistemas Computacionales",
+                "mode": "On-site",
+                "role": "B.S. in Computer Systems Engineering",
                 "duration": "Jun 2015 - Jun 2019",
-                "description": "Ingeniería de Software con fuerte base técnica en Java SE (7, 8 y 11), programación orientada a objetos y diseño de sistemas. Experiencia en desarrollo de soluciones backend, aplicaciones móviles y gestión de datos en entornos productivos, utilizando bases relacionales y NoSQL.",
+                "description": "**Software Engineering** with a robust foundation in **Java SE (7, 8, and 11)**, **data structures**, **Object-Oriented Programming (OOP)**, **concurrent programming**, and **software architecture design**. Experience in developing **enterprise-level backend solutions**, mobile applications, and data management in complex environments, utilizing both **relational and NoSQL databases**, with a focus on quality, scalability, and engineering best practices.",
                 "details": []
             },
             {
                 "name": "Centro de Estudios Tecnológicos Industrial y de Servicios No. 109",
-                "mode": "Presencial",
-                "role": "Técnico en desarrollo de software",
+                "mode": "On-site",
+                "role": "Software Development Technician",
                 "duration": "Jun 2015 - Jun 2019",
-                "description": "Desarrollo de proyectos utilizando Java, C++, C# y PHP.",
+                "description": "Institution where I formally began my training as a programmer, acquiring solid foundations in **structured programming logic, process diagramming, problem-solving, and algorithmic thinking** using languages such as **Java, C++, C#, and PHP**. I complemented this training with a strong preparation in **operating systems, technical support, and computer hardware administration**, laying the groundwork for my career in software development.",
                 "details": []
             }
         ]
     },
     "certificates": {
-        "title": "Certificados",
+        "title": "Certificates",
         "certificates": [
             {
-                "title": "Análisis de datos | Estadística con Python",
+                "title": "Data Analysis | Statistics with Python",
                 "institute": "TecNM",
                 "date": "01/01/2026",
                 "link": "https://mooc.tecnm.mx/certificates/4670fe77ced94004830476ca2fb3455e",
                 "id": "",
                 "description": "",
-                "img": ""
+                "img": "/certificates/tecnm.png"
             },
             {
-                "title": "Training Comunicación Inteligente",
+                "title": "Intelligent Communication Training",
                 "institute": "DaCodes",
                 "date": "01/04/2025",
                 "link": "https://www.credly.com/badges/801f00ea-06f1-4946-916c-501a8bda5cae/linked_in_profile",
                 "id": "",
                 "description": "",
-                "img": ""
+                "img": "/certificates/dacodes.jfif"
             },
             {
-                "title": "Training Client Facing",
+                "title": "Client Facing Training",
                 "institute": "DaCodes",
                 "date": "01/04/2025",
                 "link": "https://www.credly.com/badges/08e628c7-86a1-419a-bca8-887f3355001f/linked_in_profile",
                 "id": "",
                 "description": "",
-                "img": ""
+                "img": "/certificates/dacodes.jfif"
             },
             {
-                "title": "Onboarding DaCodes",
+                "title": "DaCodes Onboarding",
                 "institute": "DaCodes",
                 "date": "05/08/2024",
                 "link": "",
                 "id": "https://www.credly.com/badges/52a39ec3-7fbf-460f-b5f2-7688a940f096/linked_in_profile",
                 "description": "",
-                "img": ""
+                "img": "/certificates/dacodes.jfif"
             },
             {
                 "title": "Scrum Fundamentals Certified",
@@ -66,34 +66,34 @@
                 "link": "https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-V%C3%ADctorDanielCalder%C3%B3nL%C3%B3pez-1043578.pdf",
                 "id": "c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com",
                 "description": "",
-                "img": ""
+                "img": "/certificates/scrumstudy.png"
             },
             {
-                "title": "TypeScript avanzado",
+                "title": "Advanced TypeScript",
                 "institute": "Platzi",
                 "date": "05/08/2024",
                 "link": "https://platzi.com/p/victordaniel001/curso/2879-typescript-tipos-avanzados/diploma/detalle/",
                 "id": "81711bdf-ea68-4950-8e38-e2d24706ac4a",
                 "description": "",
-                "img": ""
+                "img": "/certificates/platzi.png"
             },
             {
-                "title": "Introducción Data Science e Inteligencia Artificial",
+                "title": "Introduction to Data Science and Artificial Intelligence",
                 "institute": "Platzi",
                 "date": "01/02/2023",
                 "link": "https://platzi.com/p/victordaniel001/curso/2807-aprender-data-ia/diploma/detalle/",
                 "id": "2395bb82-15a6-4a29-bb9f-d96ada22824b",
                 "description": "",
-                "img": ""
+                "img": "/certificates/platzi.png"
             },
             {
-                "title": "Java SE Orientado a Objetos",
+                "title": "Object-Oriented Java SE",
                 "institute": "Platzi",
                 "date": "01/07/2024",
                 "link": "c55f386c-014a-4a84-9541-138d8816ddba",
                 "id": "https://platzi.com/p/victordaniel001/curso/1629-java-oop/diploma/detalle/",
                 "description": "",
-                "img": ""
+                "img": "/certificates/platzi.png"
             }
         ]
     }

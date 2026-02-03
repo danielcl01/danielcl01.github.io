@@ -1,13 +1,19 @@
 {
     "menu": {
-        "about": "About me",
+        "about": "About Me",
         "resume": "Resume",
         "experience": "Experience",
         "portfolio": "Portfolio",
-        "contact": "Contact me"
+        "contact": "Let's Connect"
     },
     "titles": {
-        "skills": "Skills",
-        "projects": "Projects"
+        "skills": "Technical Skills",
+        "projects": "Featured Projects",
+        "next": "Next",
+        "previous": "Previous",
+        "experience": {
+            "projects": "View more about:"
+        },
+        "download": "Download CV"
     }
 }

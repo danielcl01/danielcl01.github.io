@@ -1,59 +1,65 @@
 {
     "about": {
-        "title": "About me",
-        "description": "Software Engineer with 6+ years of experience in backend development and microservices architectures. Specialized in Node.js, TypeScript, Express, and NestJS, with a strong focus on payment systems, billing, fintech, and high-traffic platforms. Experienced in working with cloud environments (AWS, DigitalOcean), CI/CD, and multidisciplinary remote teams."
+        "title": "About Me",
+        "description": "Software Engineer / Backend Developer with over **6 years of experience** in designing, developing, and scaling **cloud-native web applications** and **high-availability RESTful APIs** across sectors such as e-commerce, oil & gas, fintech, and corporate events. I have participated in **monolith-to-microservices migrations**, process automation, and the construction of mission-critical enterprise platforms.\n\nI possess solid experience in **Node.js, TypeScript, Express, NestJS, SQL, AWS, and CI/CD**, as well as **Java and Spring Boot**, with a high **capacity to adapt to new stacks and backend architectures**. I have **led and mentored technical teams**, actively contributing to the continuous improvement of quality, security, performance, and scalability."
     },
-    "experience": {
-        "title": "Work Experience",
-        "companies": [
+    "whatido": {
+        "title": "What I Do",
+        "topics": [
             {
-                "name": "DaCodes",
-                "mode": "Remote",
-                "role": "Senior Software Engineer",
-                "duration": "Ago 2024 - Oct 2025",
-                "description": "Participated in the design, migration, and scaling of an Enterprise Financial Portal (Fintech, Mortgage Lending) and in the development of a Music & Entertainment Events Web Application, both based on microservices architecture with strong focus on backend development, payments, and billing.",
-                "details": [
-                    "Led the migration from monolithic architectures to microservices, designing UML/BPM workflows and authoring technical documentation. Strengthened web application security, successfully remediating up to 98% of detected vulnerabilities. Performed code quality and security analysis using SonarQube and Fortify.",
-                    "Developed microservices and RESTful APIs using TypeScript, Node.js, Express, and NestJS, applying software design patterns. Designed data models and managed relational databases using PostgreSQL and TypeORM.",
-                    "Integrated web modules using JavaScript, React, and TypeScript. Implemented and optimized payment flows with Stripe, including billing and transaction processing.",
-                    "Built background processes with CRON Jobs for payment status updates and asynchronous workflows.",
-                    "Automated unit testing (Jest) and end-to-end testing (Cypress), including design and execution of functional test plans. Actively contributed to CI/CD pipelines and deployment processes using GitFlow, Git, GitLab/GitHub, Jenkins, Docker, and AWS EC2.",
-                    "Collaborated closely with multidisciplinary teams, including MQ, CRM, SAP, and business stakeholders, ensuring proper alignment between technical requirements and business objectives."
-                ]
+                "title": "Software Development",
+                "icon": "dev",
+                "description": "Design, development, testing, and maintenance of scalable, secure, and result-oriented web applications and services."
             },
             {
-                "name": "Prointernet MX",
-                "mode": "On site",
-                "role": "Backend Developer | Team Leadership & Mentorship",
-                "duration": "Jun 2019 - Jun 2024",
-                "description": "Contributed to the development of E-Commerce platforms (B2C/B2B), Event Management Systems (EventTech solutions), and a Logistics Management System, focused on high-traffic environments, payment integration, online invoicing, security, and scalable architectures. Provided technical mentorship and team support.",
-                "details": [
-                    "Designed and modeled databases using SQL Server and MySQL (DDL/DML).",
-                    "Integrated payment gateways including BBVA, Banorte, Clip, and PayPal.",
-                    "Implemented electronic invoicing (CFDI 3.3 and 4.0) using RealVirtual (PAC).",
-                    "Developed ETL processes using MSSQL Bulk and Node.js (CRON Jobs).",
-                    "Built persistent shopping carts and real-time updates using WebSockets.",
-                    "Developed pre-registration and payment modules with Clip, including reconciliation via Webhooks.",
-                    "Implemented access control systems using QR and NFC technologies.",
-                    "Developed online/offline check-in modules using Electron.js.",
-                    "Created dashboards using JavaScript, React.js, and Google Charts.",
-                    "Designed secure REST APIs using JavaScript, TypeScript, TypeORM, JWT, and RSA/RS256.",
-                    "Developed parcel and logistics management systems (TMS) and POS modules using JavaScript, React.js, and Electron.js. Remediated up to 100% of vulnerabilities detected by tools such as Tenable.",
-                    "Implemented security policies including CSP, Permissions-Policy, Cache-Control, among others.",
-                    "Managed repositories using Git and GitHub, and performed deployments on Azure."
-                ]
+                "title": "Process Automation",
+                "icon": "auto",
+                "description": "Optimization of operational workflows through automated solutions."
             },
             {
-                "name": "Grupo Crea",
-                "mode": "Remote",
-                "role": "Backend Developer",
-                "duration": "Feb 2022 - May 2022",
-                "description": "Digital Radio Mobile Application.",
-                "details": [
-                    "Designed and implemented RESTful APIs for live streaming, news publishing, and advertising management features.",
-                    "Developed backend services using JavaScript, TypeScript, Node.js, and Express.",
-                    "Deployed, operated, and maintained services on DigitalOcean, using Git and GitHub for version control and collaboration."
-                ]
+                "title": "Cloud Computing",
+                "icon": "cloud",
+                "description": "Implementation, management, and deployment of systems on AWS, DigitalOcean, and local environments based on business needs."
+            },
+            {
+                "title": "Database Management & Analysis",
+                "icon": "db",
+                "description": "Design, optimization, and management of relational and NoSQL databases for high-performance systems."
+            }
+        ]
+    },
+    "projects": {
+        "title": "Projects",
+        "topics": [
+            {
+                "title": "Custom E-Commerce",
+                "image": "/projects/ecommerce.png",
+                "description": "Design and development of custom, secure, and highly scalable e-commerce platforms focused on business results."
+            },
+            {
+                "title": "Electronic Invoicing & Payment Processing",
+                "image": "/projects/payments.png",
+                "description": "Implementation of electronic invoicing systems and secure payment gateways, complying with tax and security standards."
+            },
+            {
+                "title": "Corporate Event Platforms",
+                "image": "/projects/events.png",
+                "description": "Digital solutions for the comprehensive management of corporate events, attendee registration, networking, and advanced analytics."
+            },
+            {
+                "title": "Administrative & Financial Management",
+                "image": "/projects/management.png",
+                "description": "Development of administrative and financial systems for control, automation, and strategic decision-making."
+            },
+            {
+                "title": "Point of Sale (POS) Systems",
+                "image": "/projects/pos.png",
+                "description": "Implementation of modern POS systems for sales, inventory, invoicing, and real-time reporting."
+            },
+            {
+                "title": "Migration & Microservices",
+                "image": "/projects/microservices.png",
+                "description": "Transformation of monolithic systems into scalable, resilient microservices architectures oriented toward growth."
             }
         ]
     }

@@ -54,38 +54,98 @@
                     "title": "Habilidades Tech",
                     "skills": [
                         {
-                            "title": "Backend y DevOps",
+                            "title": "Backend y CI/CD",
                             "icons": [
-                                "nodejs",
-                                "js",
-                                "typescript",
-                                "express",
-                                "nginx",
-                                "git",
-                                "github",
-                                "ubuntu",
-                                "linux",
-                                "aws",
-                                "jenkins"
+                                {
+                                    "image": "nodejs",
+                                    "title": "Node.js"
+                                },
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "express",
+                                    "title": "Express.js"
+                                },
+                                {
+                                    "image": "nginx",
+                                    "title": "Nginx"
+                                },
+                                {
+                                    "image": "git",
+                                    "title": "Git"
+                                },
+                                {
+                                    "image": "github",
+                                    "title": "GitHub"
+                                },
+                                {
+                                    "image": "ubuntu",
+                                    "title": "Ubuntu"
+                                },
+                                {
+                                    "image": "linux",
+                                    "title": "Linux"
+                                },
+                                {
+                                    "image": "aws",
+                                    "title": "AWS"
+                                },
+                                {
+                                    "image": "jenkins",
+                                    "title": "Jenkins"
+                                }
                             ]
                         },
                         {
                             "title": "Frontend Developer",
                             "icons": [
-                                "js",
-                                "typescript",
-                                "html",
-                                "react",
-                                "redux"
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "html",
+                                    "title": "HTML"
+                                },
+                                {
+                                    "image": "react",
+                                    "title": "React"
+                                },
+                                {
+                                    "image": "redux",
+                                    "title": "Redux"
+                                }
                             ]
                         },
                         {
                             "title": "Calidad y seguridad",
                             "icons": [
-                                "fortify-other",
-                                "sonarqube-other",
-                                "jest",
-                                "cypress"
+                                {
+                                    "image": "fortify-other",
+                                    "title": "Fortify"
+                                },
+                                {
+                                    "image": "sonarqube-other",
+                                    "title": "Sonarqube"
+                                },
+                                {
+                                    "image": "jest",
+                                    "title": "Jest"
+                                },
+                                {
+                                    "image": "cypress",
+                                    "title": "Cypress"
+                                }
                             ]
                         }
                     ]
@@ -128,27 +188,69 @@
                     "title": "Habilidades Tech",
                     "skills": [
                         {
-                            "title": "Backend y DevOps",
+                            "title": "Backend y CI/CD",
                             "icons": [
-                                "nodejs",
-                                "js",
-                                "typescript",
-                                "nestjs",
-                                "nginx",
-                                "git",
-                                "github",
-                                "ubuntu",
-                                "linux",
-                                "aws",
-                                "jenkins"
+                                {
+                                    "image": "nodejs",
+                                    "title": "Node.js"
+                                },
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "nestjs",
+                                    "title": "NestJS"
+                                },
+                                {
+                                    "image": "nginx",
+                                    "title": "Nginx"
+                                },
+                                {
+                                    "image": "git",
+                                    "title": "Git"
+                                },
+                                {
+                                    "image": "github",
+                                    "title": "GitHub"
+                                },
+                                {
+                                    "image": "ubuntu",
+                                    "title": "Ubuntu"
+                                },
+                                {
+                                    "image": "linux",
+                                    "title": "Linux"
+                                },
+                                {
+                                    "image": "aws",
+                                    "title": "AWS"
+                                },
+                                {
+                                    "image": "jenkins",
+                                    "title": "Jenkins"
+                                }
                             ]
                         },
                         {
                             "title": "Calidad y seguridad",
                             "icons": [
-                                "fortify-other",
-                                "sonarqube-other",
-                                "jest"
+                                {
+                                    "image": "fortify-other",
+                                    "title": "Fortify"
+                                },
+                                {
+                                    "image": "sonarqube-other",
+                                    "title": "Sonarqube"
+                                },
+                                {
+                                    "image": "jest",
+                                    "title": "Jest"
+                                }
                             ]
                         }
                     ]
@@ -225,39 +327,102 @@
                     "title": "Habilidades Tech",
                     "skills": [
                         {
-                            "title": "Backend y gestión",
+                            "title": "Backend Developer",
                             "icons": [
-                                "nodejs",
-                                "js",
-                                "typescript",
-                                "express",
-                                "nginx",
-                                "git",
-                                "github",
-                                "azure",
-                                "ms-other",
-                                "ubuntu",
-                                "linux"
+                                {
+                                    "image": "nodejs",
+                                    "title": "Node.js"
+                                },
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "express",
+                                    "title": "Express.js"
+                                },
+                                {
+                                    "image": "nginx",
+                                    "title": "Nginx"
+                                },
+                                {
+                                    "image": "git",
+                                    "title": "Git"
+                                },
+                                {
+                                    "image": "github",
+                                    "title": "GitHub"
+                                },
+                                {
+                                    "image": "azure",
+                                    "title": "Azure"
+                                },
+                                {
+                                    "image": "ms-other",
+                                    "title": "Microsoft"
+                                },
+                                {
+                                    "image": "ubuntu",
+                                    "title": "Ubuntu"
+                                },
+                                {
+                                    "image": "linux",
+                                    "title": "Linux"
+                                }
                             ]
                         },
                         {
                             "title": "Registros web y escritorio",
                             "icons": [
-                                "js",
-                                "typescript",
-                                "html",
-                                "css",
-                                "handlebars_js-other",
-                                "react",
-                                "electron",
-                                "redux"
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "html",
+                                    "title": "HTML"
+                                },
+                                {
+                                    "image": "css",
+                                    "title": "CSS"
+                                },
+                                {
+                                    "image": "handlebars_js-other",
+                                    "title": "Handlebars"
+                                },
+                                {
+                                    "image": "react",
+                                    "title": "React"
+                                },
+                                {
+                                    "image": "electron",
+                                    "title": "Electron"
+                                },
+                                {
+                                    "image": "redux",
+                                    "title": "Redux"
+                                }
                             ]
                         },
                         {
                             "title": "Bases de datos",
                             "icons": [
-                                "mssql-other",
-                                "sql_azure-other"
+                                {
+                                    "image": "mssql-other",
+                                    "title": "SQL Server"
+                                },
+                                {
+                                    "image": "sql_azure-other",
+                                    "title": "Azure SQL"
+                                }
                             ]
                         },
                         {
@@ -336,33 +501,90 @@
                     "title": "Habilidades Tech",
                     "skills": [
                         {
-                            "title": "Backend developer",
+                            "title": "Backend Developer",
                             "icons": [
-                                "nodejs",
-                                "js",
-                                "typescript",
-                                "express",
-                                "git",
-                                "github",
-                                "azure",
-                                "ms-other"
+                                {
+                                    "image": "nodejs",
+                                    "title": "Node.js"
+                                },
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "express",
+                                    "title": "Express.js"
+                                },
+                                {
+                                    "image": "nginx",
+                                    "title": "Nginx"
+                                },
+                                {
+                                    "image": "git",
+                                    "title": "Git"
+                                },
+                                {
+                                    "image": "github",
+                                    "title": "GitHub"
+                                },
+                                {
+                                    "image": "azure",
+                                    "title": "Azure"
+                                },
+                                {
+                                    "image": "ms-other",
+                                    "title": "Microsoft"
+                                },
+                                {
+                                    "image": "ubuntu",
+                                    "title": "Ubuntu"
+                                },
+                                {
+                                    "image": "linux",
+                                    "title": "Linux"
+                                }
                             ]
                         },
                         {
                             "title": "Frontend developer",
                             "icons": [
-                                "js",
-                                "typescript",
-                                "html",
-                                "css",
-                                "handlebars_js-other"
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "html",
+                                    "title": "HTML"
+                                },
+                                {
+                                    "image": "css",
+                                    "title": "CSS"
+                                },
+                                {
+                                    "image": "handlebars_js-other",
+                                    "title": "Handlebars.js"
+                                }
                             ]
                         },
                         {
                             "title": "Bases de datos",
                             "icons": [
-                                "mssql-other",
-                                "sql_azure-other"
+                                {
+                                    "image": "mssql-other",
+                                    "title": "SQL Server"
+                                },
+                                {
+                                    "image": "sql_azure-other",
+                                    "title": "Azure SQL"
+                                }
                             ]
                         },
                         {
@@ -446,33 +668,96 @@
                         {
                             "title": "Backend Developer",
                             "icons": [
-                                "nodejs",
-                                "js",
-                                "typescript",
-                                "express",
-                                "nginx",
-                                "git",
-                                "github",
-                                "ubuntu",
-                                "linux"
+                                {
+                                    "image": "nodejs",
+                                    "title": "Node.js"
+                                },
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "express",
+                                    "title": "Express.js"
+                                },
+                                {
+                                    "image": "nginx",
+                                    "title": "Nginx"
+                                },
+                                {
+                                    "image": "git",
+                                    "title": "Git"
+                                },
+                                {
+                                    "image": "github",
+                                    "title": "GitHub"
+                                },
+                                {
+                                    "image": "azure",
+                                    "title": "Azure"
+                                },
+                                {
+                                    "image": "ubuntu",
+                                    "title": "Ubuntu"
+                                },
+                                {
+                                    "image": "linux",
+                                    "title": "Linux"
+                                }
                             ]
                         },
                         {
                             "title": "Gestión de contenido (CMS)",
                             "icons": [
-                                "js",
-                                "typescript",
-                                "html",
-                                "css",
-                                "handlebars_js-other"
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "html",
+                                    "title": "HTML"
+                                },
+                                {
+                                    "image": "css",
+                                    "title": "CSS"
+                                },
+                                {
+                                    "image": "handlebars_js-other",
+                                    "title": "Handlebars.js"
+                                },
+                                {
+                                    "image": "react",
+                                    "title": "React"
+                                },
+                                {
+                                    "image": "electron",
+                                    "title": "Electron"
+                                },
+                                {
+                                    "image": "redux",
+                                    "title": "Redux"
+                                }
                             ]
                         },
                         {
                             "title": "Infra. y base de datos",
                             "icons": [
-                                "mysql",
-                                "sql_azure-other",
-                                "digitalocean-other"
+                                {
+                                    "image": "mysql",
+                                    "title": "MySQL"
+                                },
+                                {
+                                    "image": "digitalocean-other",
+                                    "title": "DigitalOcean"
+                                }
                             ]
                         },
                         {
@@ -526,25 +811,71 @@
                         {
                             "title": "Fullstack developer",
                             "icons": [
-                                "nodejs",
-                                "js",
-                                "typescript",
-                                "express",
-                                "react",
-                                "html",
-                                "css",
-                                "sass",
-                                "nginx",
-                                "git",
-                                "github",
-                                "azure"
+                                {
+                                    "image": "nodejs",
+                                    "title": "Node.js"
+                                },
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "express",
+                                    "title": "Express.js"
+                                },
+                                {
+                                    "image": "nginx",
+                                    "title": "Nginx"
+                                },
+                                {
+                                    "image": "git",
+                                    "title": "Git"
+                                },
+                                {
+                                    "image": "github",
+                                    "title": "GitHub"
+                                },
+                                {
+                                    "image": "azure",
+                                    "title": "Azure"
+                                },
+                                {
+                                    "image": "ms-other",
+                                    "title": "Microsoft"
+                                },
+                                {
+                                    "image": "react",
+                                    "title": "React"
+                                },
+                                {
+                                    "image": "html",
+                                    "title": "HTML"
+                                },
+                                {
+                                    "image": "css",
+                                    "title": "CSS"
+                                },
+                                {
+                                    "image": "sass",
+                                    "title": "SASS"
+                                }
                             ]
                         },
                         {
                             "title": "Bases de datos",
                             "icons": [
-                                "mssql-other",
-                                "sql_azure-other"
+                                {
+                                    "image": "mssql-other",
+                                    "title": "SQL Server"
+                                },
+                                {
+                                    "image": "sql_azure-other",
+                                    "title": "Azure SQL"
+                                }
                             ]
                         },
                         {
@@ -556,7 +887,7 @@
                             ]
                         },
                         {
-                            "title": "Implementaciones",
+                            "title": "Facturación CFDI 3.3 y 4.4",
                             "icons": [
                                 "sat-other"
                             ]
@@ -610,28 +941,73 @@
                     "title": "Habilidades Tech",
                     "skills": [
                         {
-                            "title": "Fullstack developer",
+                            "title": "Fullstack Developer",
                             "icons": [
-                                "nodejs",
-                                "js",
-                                "typescript",
-                                "express",
-                                "react",
-                                "html",
-                                "css",
-                                "sass",
-                                "nginx",
-                                "git",
-                                "github",
-                                "azure"
+                                {
+                                    "image": "nodejs",
+                                    "title": "Node.js"
+                                },
+                                {
+                                    "image": "js",
+                                    "title": "JavaScript"
+                                },
+                                {
+                                    "image": "typescript",
+                                    "title": "TypeScript"
+                                },
+                                {
+                                    "image": "express",
+                                    "title": "Express.js"
+                                },
+                                {
+                                    "image": "nginx",
+                                    "title": "Nginx"
+                                },
+                                {
+                                    "image": "git",
+                                    "title": "Git"
+                                },
+                                {
+                                    "image": "github",
+                                    "title": "GitHub"
+                                },
+                                {
+                                    "image": "azure",
+                                    "title": "Azure"
+                                },
+                                {
+                                    "image": "ms-other",
+                                    "title": "Microsoft"
+                                },
+                                {
+                                    "image": "react",
+                                    "title": "React"
+                                },
+                                {
+                                    "image": "html",
+                                    "title": "HTML"
+                                },
+                                {
+                                    "image": "css",
+                                    "title": "CSS"
+                                },
+                                {
+                                    "image": "sass",
+                                    "title": "SASS"
+                                }
                             ]
                         },
                         {
                             "title": "Bases de datos",
                             "icons": [
-                                "mssql-other",
-                                "mysql",
-                                "firebase"
+                                {
+                                    "image": "mssql-other",
+                                    "title": "SQL Server"
+                                },
+                                {
+                                    "image": "sql_azure-other",
+                                    "title": "Azure SQL"
+                                }
                             ]
                         },
                         {
@@ -640,13 +1016,6 @@
                                 "postman",
                                 "npm",
                                 "vscode"
-                            ]
-                        },
-                        {
-                            "title": "Implementaciones",
-                            "icons": [
-                                "bbva-other",
-                                "paypal-other"
                             ]
                         }
                     ]

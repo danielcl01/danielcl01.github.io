@@ -1,0 +1,35 @@
+{
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Let's Connect",
+        "messages": {
+            "name": "Name is required.",
+            "contact": "Please select a contact method.",
+            "subject": "Subject is required.",
+            "message": "Message is required.",
+            "max_char": "Maximum 1,000 characters"
+        },
+        "contact_info": {
+            "address": "Mexico",
+            "myname": "Victor Daniel",
+            "celphone": "+52 (833)-367-1211",
+            "whatsapp": "5218333671211",
+            "email": "victordaniel0101@gmail.com",
+            "subject_static": "Contact from danielcl01.github.io",
+            "text_static": "Hi Daniel, I saw your professional profile and I'm interested in learning more about your software development experience. Can we schedule a conversation?",
+            "text_dynamic": "*Name:* {name}\n*Subject:* {subject}\n*Message:*\n{message}"
+        },
+        "form": {
+            "title": "How can I help you?",
+            "name": "Name",
+            "contact": "Contact Method",
+            "subject": "Subject",
+            "message": "Message",
+            "submit": "Send",
+            "options": [
+                { "label": "Email", "value": "mail" },
+                { "label": "Whatsapp", "value": "whatsapp" }
+            ]
+        }
+    }
+}

@@ -7,9 +7,9 @@
                 "mode": "Remoto",
                 "role": "Software Engineer | Backend Developer",
                 "duration": "Ago 2024 - Oct 2025",
-                "description": "En **DaCodes** me desempeñé como **Software Engineer** / **Backend Developer**, especializado en la migración de arquitecturas **monolíticas** a **microservicios** escalables, desarrollando **APIs RESTful** de alto rendimiento, participando activamente en pipelines de **CI/CD**, aseguramiento de calidad, **remediación de vulnerabilidades** y fortalecimiento continuo de seguridad, arquitectura y estabilidad operativa, siempre alineado a objetivos estratégicos del negocio.",
+                "description": "En **DaCodes** me desempeñé como **Software Engineer** / **Backend Developer** en un entorno 100% remoto, especializado en la migración de arquitecturas **monolíticas** a **microservicios** escalables, desarrollando **APIs RESTful** de alto rendimiento, participando activamente en pipelines de **CI/CD**, aseguramiento de calidad, **remediación de vulnerabilidades** y fortalecimiento continuo de seguridad, arquitectura y estabilidad operativa, siempre alineado a objetivos estratégicos del negocio.",
                 "details": [
-                      {
+                    {
                         "title": "Migración de Monolitos a Microservicios",
                         "type": "item",
                         "description": "",
@@ -25,10 +25,10 @@
             },
             {
                 "name": "Prointernet MX",
-                "mode": "Presencial",
+                "mode": "On-site",
                 "role": "Backend Developer | Team Leadership & Mentorship",
                 "duration": "Jun 2019 - Jun 2024",
-                "description": "Durante más de cuatro años me desempeñé como **Backend Developer**, especializado en el diseño, desarrollo y escalamiento de **APIs RESTful** de alta disponibilidad, **liderando** y **mentorando** equipos técnicos en proyectos empresariales críticos, automatización de procesos, integración de sistemas complejos y fortalecimiento continuo de seguridad, calidad de código y rendimiento, siempre alineado a objetivos estratégicos de negocio.",
+                "description": "Durante más de cuatro años participé en la modernización tecnológica de la empresa, comenzando como **Fullstack Developer** y consolidando mi perfil como **Backend Developer y Staff Técnico / Operativo**. Trabajé en proyectos de alto impacto en e-commerce, fintech, sector gasolinero y eventos empresariales, desarrollando **aplicaciones web en la nube** y **APIs RESTful de alta disponibilidad**. Además, **lideré y mentoré equipos técnicos**, impulsando automatización, integración de sistemas complejos y mejoras continuas en **seguridad, calidad, rendimiento y escalabilidad**, siempre alineado a objetivos estratégicos de negocio.",
                 "details": [
                     {
                         "title": "Eventos Empresariales a nivel nacional",
@@ -43,7 +43,7 @@
                         "link": "/portfolio/ecommerce/"
                     },
                     {
-                        "title": "Automaticación de Procesos y Facturación en linea",
+                        "title": "Automatización de Procesos y Facturación en linea",
                         "type": "item",
                         "description": "",
                         "link": "/portfolio/billing-and-automation/"
@@ -64,7 +64,7 @@
                 "description": "En Grupo Crea me desempeñé como **Backend Developer** y **consultor tecnológico**, liderando la construcción de una **aplicación móvil** de **streaming** en tiempo real, integrando servicios de transmisión, backend escalable y soluciones digitales orientadas a contenido y monetización, alineando tecnología, producto y estrategia de marca para posicionar la plataforma en el entorno digital.",
                 "details": [
                     {
-                        "title": "Transformación digital de radio por internet",
+                        "title": "De radio tradicional al streaming digital",
                         "type": "item",
                         "description": "",
                         "link": "/portfolio/digital-radio/"
@@ -74,51 +74,214 @@
             {
                 "name": "Realsa Technologys",
                 "mode": "Remoto",
-                "role": "Web Developer",
+                "role": "Frontend Developer",
                 "duration": "Ene 2019 - Jul 2019",
-                "description": "Desarrollé una plataforma web de Recursos Humanos para encuestas psicométricas y gestión del talento, y participé en la creación de un sistema para la generación eficiente de Órdenes de Servicio, optimizando procesos operativos y la comunicación interna y externa.",
+                "description": "Desarrollé una plataforma web de **Recursos Humanos** enfocada en **evaluaciones psicométricas y gestión del talento**, y participé en la creación de un sistema para la **automatización de Órdenes de Servicio**, optimizando procesos operativos, tiempos de respuesta y la comunicación interna y externa mediante soluciones digitales eficientes y escalables.",
                 "details": []
             },
             {
                 "name": "Castalv Innova Corp",
-                "mode": "Presencial",
+                "mode": "On-site",
                 "role": "Developer Intern",
                 "duration": "Jun 2017 - Ago 2017",
-                "description": "Colaboré en la instalación y soporte de sistemas POS para restaurantes, proporcionando capacitación al personal administrativo y de cocina. Además, brindé apoyo en la programación de reportes utilizando SQL Server y Crystal Reports.",
+                "description": "Colaboré en la **implementación, configuración y soporte** de sistemas **POS (Punto de Venta)** para restaurantes, capacitando al personal administrativo y operativo. Además, apoyé en el desarrollo de **reportes personalizados** utilizando **SQL Server y Crystal Reports**, contribuyendo a la mejora en la toma de decisiones y eficiencia operativa.",
                 "details": []
             }
         ]
     },
     "techskills": {
         "title": "Habilidades Tech",
+        "description": "*Como **Software Engineer**, cuento con un **sólido dominio** en las siguientes tecnologías, con alta capacidad de adaptación para alinearme rápidamente a la arquitectura y stack backend de cualquier organización.*",
         "skills": [
             {
-                "title": "Backend",
-                "icons": ["nodejs","js","typescript","express","nest","java","maven","spring"]
+                "title": "Backend Developer",
+                "icons": [
+                    {
+                        "image": "nodejs",
+                        "title": "Node.js"
+                    },
+                    {
+                        "image": "js",
+                        "title": "JavaScript"
+                    },
+                    {
+                        "image": "typescript",
+                        "title": "TypeScript"
+                    },
+                    {
+                        "image": "express",
+                        "title": "Express.js"
+                    },
+                    {
+                        "image": "nest",
+                        "title": "NestJS"
+                    },
+                    {
+                        "image": "java",
+                        "title": "Java"
+                    },
+                    {
+                        "image": "maven",
+                        "title": "Maven"
+                    },
+                    {
+                        "image": "spring",
+                        "title": "Spring"
+                    }
+                ]
             },
             {
-                "title": "Frontend",
-                "icons": ["typescript","react","nextjs","electron","html","css","sass","tailwind"]
+                "title": "Frontend Developer",
+                "icons": [
+                    {
+                        "image": "typescript",
+                        "title": "TypeScript"
+                    },
+                    {
+                        "image": "react",
+                        "title": "React"
+                    },
+                    {
+                        "image": "nextjs",
+                        "title": "Next.js"
+                    },
+                    {
+                        "image": "redux",
+                        "title": "Redux"
+                    },
+                    {
+                        "image": "html",
+                        "title": "HTML"
+                    },
+                    {
+                        "image": "css",
+                        "title": "CSS"
+                    },
+                    {
+                        "image": "sass",
+                        "title": "Sass"
+                    },
+                    {
+                        "image": "tailwind",
+                        "title": "Tailwind"
+                    },
+                    {
+                        "image": "electron",
+                        "title": "Electron"
+                    },
+                    {
+                        "image": "handlebars_js-other",
+                        "title": "Handlebars"
+                    }
+                ]
             },
             {
-                "title": "Microservicios y DevOps",
-                "icons": ["docker","aws", "digitalocean-other","git","github","gitlab","linux","jenkins","nginx"]
+                "title": "Microservicios y CI/CD",
+                "icons": [
+                    {
+                        "image": "docker",
+                        "title": "Docker"
+                    },
+                    {
+                        "image": "aws",
+                        "title": "AWS"
+                    },
+                    {
+                        "image": "digitalocean-other",
+                        "title": "Digital Ocean"
+                    },
+                    {
+                        "image": "git",
+                        "title": "Git"
+                    },
+                    {
+                        "image": "github",
+                        "title": "GitHub"
+                    },
+                    {
+                        "image": "gitlab",
+                        "title": "GitLab"
+                    },
+                    {
+                        "image": "linux",
+                        "title": "Linux"
+                    },
+                    {
+                        "image": "jenkins",
+                        "title": "Jenkins"
+                    },
+                    {
+                        "image": "nginx",
+                        "title": "Nginx"
+                    }
+                ]
             },
             {
                 "title": "Bases de datos",
-                "icons": ["mssql-other","mysql","postgresql","mongodb","firebase"]
+                "icons": [
+                    {
+                        "image": "mssql-other",
+                        "title": "SQL Server"
+                    },
+                    {
+                        "image": "mysql",
+                        "title": "MySQL"
+                    },
+                    {
+                        "image": "postgresql",
+                        "title": "PostgreSQL"
+                    },
+                    {
+                        "image": "mongodb",
+                        "title": "MongoDB"
+                    },
+                    {
+                        "image": "firebase",
+                        "title": "Firebase"
+                    }
+                ]
             },
             {
                 "title": "Pruebas y calidad",
-                "icons": ["jest","cypress", "sonarqube-other","fortify-other"]
+                "icons": [
+                    {
+                        "image": "jest",
+                        "title": "Jest"
+                    },
+                    {
+                        "image": "cypress",
+                        "title": "Cypress"
+                    },
+                    {
+                        "image": "sonarqube-other",
+                        "title": "SonarQube"
+                    },
+                    {
+                        "image": "fortify-other",
+                        "title": "Fortify"
+                    }
+                ]
+            },
+            {
+                "title": "Facturación y procesamiento de pagos",
+                "icons": [
+                    "stripe-other",
+                    "bbva-other",
+                    "paypal2-other",
+                    "clip-other",
+                    "sat-other"
+                ]
             },
             {
                 "title": "Otras herramientas",
-                "icons": ["postman","npm","vscode","androidstudio","eclipse","idea"]
-            },
-            {
-                "title": "Implementaciones",
-                "icons": ["stripe-other", "bbva-other", "paypal-other", "clip-other", "sat-other"]
+                "icons": [
+                    "postman",
+                    "npm",
+                    "vscode",
+                    "androidstudio",
+                    "eclipse",
+                    "idea"
+                ]
             }
         ]
     },
@@ -131,31 +294,42 @@
         ]
     },
     "projects": {
-        "title": "Proyectos",
+        "title": "Proyectos trabajados",
         "skills": [
             {
-                "title": "Plataformas de Comercio Electrónico Escalables"
+                "title": "Migración de monolitos a microservicios",
+                "link": "/portfolio/monolito-to-microservices"
             },
             {
-                "title": "Sistemas de Facturación Electrónica CFDI 4.0"
+                "title": "RESTful APIs para aplicaciones moviles",
+                "link": "/portfolio/restful-apis-whith-nestjs/"
             },
             {
-                "title": "Soluciones de Logística y Gestión de Paquetería"
+                "title": "Eventos empresariales a nivel nacional",
+                "link": "/portfolio/events"
             },
             {
-                "title": "Sistemas de Gestión de Contenidos (CMS)"
+                "title": "E-Commerce (menudeo / mayoreo) a la medida",
+                "link": "/portfolio/ecommerce/"
             },
             {
-                "title": "Plataformas para Eventos Corporativos y Networking"
+                "title": "Automatización de procesos",
+                "link": "/portfolio/billing-and-automation/"
             },
             {
-                "title": "Sistemas de Punto de Venta (POS)"
+                "title": "Procesamiento de pagos",
+                "link": "/portfolio/ecommerce/"
             },
             {
-                "title": "Plataformas de Radio Digital y Streaming"
+                "title": "Facturación en linea CFDI 4.0",
+                "link": "/portfolio/billing-and-automation/"
             },
             {
-                "title": "Sistemas Financieros e Inmobiliarios"
+                "title": "Aplicación de radio digital y streaming",
+                "link": "/portfolio/digital-radio/"
+            },
+            {
+                "title": "Sistemas de punto de venta (POS)"
             }
         ]
     },
@@ -163,36 +337,24 @@
         "title": "Perfil",
         "skills": [
             {
-                "title": "Desarrollo Backend",
-                "level": 95
+                "title": "Software Engineer",
+                "level": 100
             },
             {
-                "title": "Implementación de APIs RESTful",
-                "level": 92
+                "title": "Backend Developer",
+                "level": 90
             },
             {
-                "title": "Diseño y Optimización de Bases de Datos",
-                "level": 88
-            },
-            {
-                "title": "Arquitectura de Software y Microservicios en la Nube",
-                "level": 85
-            },
-            {
-                "title": "Integraciones de Sistemas",
+                "title": "Infraestructura en la nube",
                 "level": 80
             },
             {
-                "title": "Facturación y Procesamiento de Pagos",
-                "level": 80
+                "title": "Frontend Developer",
+                "level": 70
             },
             {
-                "title": "Automatización de Procesos y ETL",
-                "level": 78
-            },
-            {
-                "title": "Desarrollo Frontend Responsivo",
-                "level": 75
+                "title": "Diseño UX/UI",
+                "level": 30
             }
         ]
     }
