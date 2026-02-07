@@ -263,10 +263,7 @@
                 "link": "/portfolio/events",
                 "image": [
                     "/portfolio/events/event-4.jpg",
-                    "/portfolio/events/event-2.png",
-                    "/portfolio/events/event-6.jpg",
-                    "/portfolio/events/event-12.jpg",
-                    "/portfolio/events/event-3.jpg",
+                    "/portfolio/events/event-12.png",
                     "/portfolio/events/event-5.jpg"
                 ],
                 "description": "Creación de un ecosistema digital gradual, escalable y robusto: Compra de boletos en línea, pagos con Clip y PayPal, registro de asistentes, expositores, patrocinadores y speakers.",
@@ -281,8 +278,8 @@
                     {
                         "is_col": true,
                         "description": [
-                            "Participación en varios eventos\n- Tamaulipas (2020)\n- Mérida (2022)\n- Puebla (2022)\n- Acapulco (2023)\n- Oaxaca (2023)\n- Tamaulipas (2023)\n- Cancún (2024)",
-                            "Arquitectura del ecosistema\n- Backend con **Node.js**, **Express.js** y **TypeScript**.\n- **RESTful APIs** modulares.\n- Aplicaciones web **SPA** con **React.js**.\n- Aplicaciones de escritorio con **Electron.js** para operación offline.\n- Bases de datos en **SQL Server**, con sincronización **batch** y diferencial."
+                            "Arquitectura del ecosistema\n- Backend con **Node.js**, **Express.js** y **TypeScript**.\n- **RESTful APIs** modulares.\n- Aplicaciones web **SPA** con **React.js**.\n- Aplicaciones de escritorio con **Electron.js** para operación offline.\n- Bases de datos en **SQL Server**, con sincronización **batch** y diferencial.",
+                            "Participación en varios eventos\n- Mérida (2022)\n- Puebla (2022)\n- Acapulco (2023)\n- Oaxaca (2023)\n- Cancún (2024)"
                         ]
                     },
                     {
