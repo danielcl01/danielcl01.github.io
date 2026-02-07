@@ -3,16 +3,16 @@
         "title": "Education",
         "institute": [
             {
-                "name": "Instituto Tecnológico de Ciudad Madero / TecNM",
-                "mode": "On-site",
+                "name": "Tecnológico Nacional de México / TecNM",
+                "mode": "",
                 "role": "B.S. in Computer Systems Engineering",
                 "duration": "Jun 2015 - Jun 2019",
                 "description": "**Software Engineering** with a robust foundation in **Java SE (7, 8, and 11)**, **data structures**, **Object-Oriented Programming (OOP)**, **concurrent programming**, and **software architecture design**. Experience in developing **enterprise-level backend solutions**, mobile applications, and data management in complex environments, utilizing both **relational and NoSQL databases**, with a focus on quality, scalability, and engineering best practices.",
                 "details": []
             },
             {
-                "name": "Centro de Estudios Tecnológicos Industrial y de Servicios No. 109",
-                "mode": "On-site",
+                "name": "Centro de Estudios Tecnológicos Industrial y de Servicios",
+                "mode": "",
                 "role": "Software Development Technician",
                 "duration": "Jun 2015 - Jun 2019",
                 "description": "Institution where I formally began my training as a programmer, acquiring solid foundations in **structured programming logic, process diagramming, problem-solving, and algorithmic thinking** using languages such as **Java, C++, C#, and PHP**. I complemented this training with a strong preparation in **operating systems, technical support, and computer hardware administration**, laying the groundwork for my career in software development.",

@@ -25,7 +25,7 @@
             },
             {
                 "name": "Prointernet MX",
-                "mode": "On-site",
+                "mode": "",
                 "role": "Backend Developer | Team Leadership & Mentorship",
                 "duration": "Jun 2019 - Jun 2024",
                 "description": "For over four years, I contributed to the company's technological modernization, starting as a **Fullstack Developer** and consolidating my profile as a **Backend Developer and Technical/Operational Staff**. I worked on high-impact projects in e-commerce, fintech, the oil & gas sector, and corporate events, developing **cloud-native web applications** and **high-availability RESTful APIs**. Additionally, I **led and mentored technical teams**, driving automation, complex system integration, and continuous improvements in **security, quality, performance, and scalability**.",
@@ -81,7 +81,7 @@
             },
             {
                 "name": "Castalv Innova Corp",
-                "mode": "On-site",
+                "mode": "",
                 "role": "Developer Intern",
                 "duration": "Jun 2017 - Aug 2017",
                 "description": "I collaborated on the **implementation, configuration, and support** of **POS (Point of Sale)** systems for restaurants, training administrative and operational personnel. Additionally, I supported the development of **custom reports** using **SQL Server and Crystal Reports**, contributing to improved decision-making and operational efficiency.",

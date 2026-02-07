@@ -12,9 +12,9 @@
         "contact_info": {
             "address": "México",
             "myname": "Victor Daniel",
-            "celphone": "+52 (833)-367-1211",
-            "whatsapp": "5218333671211",
-            "email": "victordaniel0101@gmail.com",
+            "celphone": "+52 (833)-310-8684",
+            "whatsapp": "5218333108684",
+            "email": "victordanielcl96@hotmail.com",
             "subject_static": "Contacto desde danielcl01.github.io",
             "text_static": "Hola Daniel, vi tu perfil profesional y me interesa conocer más sobre tu experiencia en desarrollo de software. ¿Podemos agendar una conversación?",
             "text_dynamic": "*Nombre:* {name}\n*Tema:* {subject}\n*Mensaje:*\n{message}"

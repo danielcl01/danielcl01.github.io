@@ -4,10 +4,10 @@
         "companies": [
             {
                 "name": "DaCodes",
-                "mode": "Remoto",
+                "mode": "",
                 "role": "Software Engineer | Backend Developer",
                 "duration": "Ago 2024 - Oct 2025",
-                "description": "En **DaCodes** me desempeñé como **Software Engineer** / **Backend Developer** en un entorno 100% remoto, especializado en la migración de arquitecturas **monolíticas** a **microservicios** escalables, desarrollando **RESTful APIs** de alto rendimiento, participando activamente en pipelines de **CI/CD**, aseguramiento de calidad, **remediación de vulnerabilidades** y fortalecimiento continuo de seguridad, arquitectura y estabilidad operativa, siempre alineado a objetivos estratégicos del negocio.",
+                "description": "En **DaCodes** me desempeñé como **Software Engineer** / **Backend Developer**, especializado en la migración de arquitecturas **monolíticas** a **microservicios** escalables, desarrollando **RESTful APIs** de alto rendimiento, participando activamente en pipelines de **CI/CD**, aseguramiento de calidad, **remediación de vulnerabilidades** y fortalecimiento continuo de seguridad, arquitectura y estabilidad operativa, siempre alineado a objetivos estratégicos del negocio.",
                 "details": [
                     {
                         "title": "Migración de Monolitos a Microservicios",
@@ -25,7 +25,7 @@
             },
             {
                 "name": "Prointernet MX",
-                "mode": "On-site",
+                "mode": "",
                 "role": "Backend Developer | Team Leadership & Mentorship",
                 "duration": "Jun 2019 - Jun 2024",
                 "description": "Durante más de cuatro años participé en la modernización tecnológica de la empresa, comenzando como **Fullstack Developer** y consolidando mi perfil como **Backend Developer y Staff Técnico / Operativo**. Trabajé en proyectos de alto impacto en e-commerce, fintech, sector gasolinero y eventos empresariales, desarrollando **aplicaciones web en la nube** y **RESTful APIs de alta disponibilidad**. Además, **lideré y mentoré equipos técnicos**, impulsando automatización, integración de sistemas complejos y mejoras continuas en **seguridad, calidad, rendimiento y escalabilidad**, siempre alineado a objetivos estratégicos de negocio.",
@@ -58,7 +58,7 @@
             },
             {
                 "name": "Grupo Crea",
-                "mode": "Remoto",
+                "mode": "",
                 "role": "Backend Developer",
                 "duration": "Feb 2022 - May 2022",
                 "description": "En Grupo Crea me desempeñé como **Backend Developer** y **consultor tecnológico**, liderando la construcción de una **aplicación móvil** de **streaming** en tiempo real, integrando servicios de transmisión, backend escalable y soluciones digitales orientadas a contenido y monetización, alineando tecnología, producto y estrategia de marca para posicionar la plataforma en el entorno digital.",
@@ -73,7 +73,7 @@
             },
             {
                 "name": "Realsa Technologys",
-                "mode": "Remoto",
+                "mode": "",
                 "role": "Frontend Developer",
                 "duration": "Ene 2019 - Jul 2019",
                 "description": "Desarrollé una plataforma web de **Recursos Humanos** enfocada en **evaluaciones psicométricas y gestión del talento**, y participé en la creación de un sistema para la **automatización de Órdenes de Servicio**, optimizando procesos operativos, tiempos de respuesta y la comunicación interna y externa mediante soluciones digitales eficientes y escalables.",
@@ -81,7 +81,7 @@
             },
             {
                 "name": "Castalv Innova Corp",
-                "mode": "On-site",
+                "mode": "",
                 "role": "Developer Intern",
                 "duration": "Jun 2017 - Ago 2017",
                 "description": "Colaboré en la **implementación, configuración y soporte** de sistemas **POS (Punto de Venta)** para restaurantes, capacitando al personal administrativo y operativo. Además, apoyé en el desarrollo de **reportes personalizados** utilizando **SQL Server y Crystal Reports**, contribuyendo a la mejora en la toma de decisiones y eficiencia operativa.",
